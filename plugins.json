@@ -1,0 +1,34 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkSinema.cs3",
+        "status": 3,
+        "version": 2,
+        "name": "TurkSinema",
+        "internalName": "TurkSinema",
+        "authors": [
+            "Wiojelt",
+            "Saloo1575",
+            "keyiflerolsun",
+            "JustRelaxable",
+            "usdogu",
+            "hexated",
+            "patron",
+            "nikyokki",
+            "SaurabhKaperwan",
+            "megix"
+        ],
+        "description": "Tek pakette 51 T\u00fcrk\u00e7e film, dizi, anime ve belgesel sa\u011flay\u0131c\u0131s\u0131.",
+        "fileSize": 1419062,
+        "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-2b5fb005f5e17d23a23f0b275a0e3f0cd9fc00b2b911c4d3e58fbd19508a60a3"
+    }
+]
