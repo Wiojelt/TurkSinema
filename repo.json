@@ -3,6 +3,6 @@
   "description": "Türkçe film, dizi, anime ve belgesel sağlayıcıları",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/plugins.json"
+    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/plugins.json?v=4"
   ]
 }
