@@ -1,6 +1,6 @@
 # Sağlayıcılar
 
-Derleme sırasında 51 `registerMainAPI` kaydı bulunur.
+Derleme sırasında 44 ayrı eklenti paketi ve 57 `registerMainAPI` kaydı bulunur.
 
 ## SalooRepo — 30
 
@@ -61,5 +61,17 @@ Derleme sırasında 51 `registerMainAPI` kaydı bulunur.
 49. DDizi Alternatif
 50. DiziBox Alternatif
 51. HDFilmCehennemi Alternatif
+
+## CNCVerse — 4 (NivinCNC, GPL-3.0)
+
+52. Netflix Mirror
+53. Prime Video Mirror
+54. Hotstar Mirror
+55. Disney Plus
+
+## Wiojelt Gold — 2
+
+56. ClipBox
+57. FlixNetwork (dizinden çalışan alanı seçer, çoklu oynatıcıları tek sağlayıcıda toplar)
 
 `Alternatif` girdiler aynı site ailesi için farklı uygulamalardır; ana sürüm bozulduğunda yedek olarak tutulur.

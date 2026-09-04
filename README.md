@@ -3,7 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/logo.png" width="180" alt="TurkSinema logosu">
+  <a href="https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/Wiojelt/TurkSinema/main/repo.json"><img src="assets/logo.png" width="180" alt="TurkSinema deposunu CloudStream'e ekle"></a><br>
+  <strong>Logoya dokun: TurkSinema deposu CloudStream'e eklenir.</strong>
+</p>
+
+<p align="center">
+  <strong>44 ayrı eklenti · 57+ film, dizi, anime ve belgesel sağlayıcısı</strong><br>
+  Her paketin ⚙ ekranında etkin alan adı, erişim kontrolü ve yönlendirme güncellemesi bulunur.
 </p>
 
 <p align="center">
@@ -50,5 +56,5 @@ https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/repo.json
 Depo eklenmiyorsa [WARP](https://one.one.one.one/) ile tekrar deneyin.
 
 <p align="center">
-  <a href="PROVIDERS.md">51 sağlayıcı</a> · <a href="NOTICE.md">Atıflar</a> · <a href="LICENSE">GPL-3.0</a>
+  <a href="PROVIDERS.md">57+ sağlayıcı</a> · <a href="NOTICE.md">Atıflar</a> · <a href="LICENSE">GPL-3.0</a>
 </p>
