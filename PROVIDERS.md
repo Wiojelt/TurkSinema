@@ -1,8 +1,8 @@
 # Sağlayıcılar
 
-Derleme sırasında 44 ayrı eklenti paketi ve 57 `registerMainAPI` kaydı bulunur.
+Derleme sırasında 56 ayrı indirilebilir eklenti paketi bulunur. Yanıt vermeyen ve doğrulanabilir güncel adresi bulunamayan RecTV paketi katalogdan çıkarılmıştır.
 
-## SalooRepo — 30
+## SalooRepo — 29
 
 1. 666Filmİzle
 2. AnimeciX
@@ -26,52 +26,51 @@ Derleme sırasında 44 ayrı eklenti paketi ve 57 `registerMainAPI` kaydı bulun
 20. JetFilmizle
 21. KultFilmler
 22. RareFilmm
-23. RecTV
-24. SetFilmIzle
-25. SinemaCX
-26. Sinewix
-27. TLCtr
-28. TRanimaci
-29. TRasyalog
-30. TurkAnime
+23. SetFilmIzle
+24. SinemaCX
+25. Sinewix
+26. TLCtr
+27. TRanimaci
+28. TRasyalog
+29. TurkAnime
 
 ## BronzeCloud — 8
 
-31. CineStream
-32. CineSimkl
-33. CineTmdb
-34. DiziPalOriginal
-35. HDFilmDelisi
-36. SezonlukDizi
-37. Watch2Movies
-38. WebteIzle
+30. CineStream
+31. CineSimkl
+32. CineTmdb
+33. DiziPalOriginal
+34. HDFilmDelisi
+35. SezonlukDizi
+36. Watch2Movies
+37. WebteIzle
 
 ## Ripplay — 13
 
-39. HDFilmİzle Ink
-40. HDFilmİzle Vip
-41. YabancıDizi
-42. TrDiziİzle
-43. DiziBal
-44. DiziRella
-45. DiziBol
-46. FilmIzzle
-47. LiderFilmİzle
-48. DiziFilmİzle
-49. DDizi Alternatif
-50. DiziBox Alternatif
-51. HDFilmCehennemi Alternatif
+38. HDFilmİzle Ink
+39. HDFilmİzle Vip
+40. YabancıDizi
+41. TrDiziİzle
+42. DiziBal
+43. DiziRella
+44. DiziBol
+45. FilmIzzle
+46. LiderFilmİzle
+47. DiziFilmİzle
+48. DDizi Alternatif
+49. DiziBox Alternatif
+50. HDFilmCehennemi Alternatif
 
 ## CNCVerse — 4 (NivinCNC, GPL-3.0)
 
-52. Netflix Mirror
-53. Prime Video Mirror
-54. Hotstar Mirror
-55. Disney Plus
+51. Netflix Mirror
+52. Prime Video Mirror
+53. Hotstar Mirror
+54. Disney Plus
 
 ## Wiojelt Gold — 2
 
-56. ClipBox
-57. FlixNetwork (dizinden çalışan alanı seçer, çoklu oynatıcıları tek sağlayıcıda toplar)
+55. ClipBox
+56. FlixNetwork (dizinden çalışan alanı seçer, çoklu oynatıcıları tek sağlayıcıda toplar)
 
 `Alternatif` girdiler aynı site ailesi için farklı uygulamalardır; ana sürüm bozulduğunda yedek olarak tutulur.

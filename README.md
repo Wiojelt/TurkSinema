@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="TurkSinema — Türkçe film ve diziler tek yerde. 51 kaynak, tek eklenti. Kısa kod: turksinema." width="100%">
+  <img src="assets/banner.png" alt="TurkSinema — 56 ayrı CloudStream film ve dizi sağlayıcısı." width="100%">
 </p>
 
 <p align="center">
@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-  <strong>44 ayrı eklenti · 57+ film, dizi, anime ve belgesel sağlayıcısı</strong><br>
+  <strong>56 ayrı indirilebilir film, dizi, anime ve belgesel eklentisi</strong><br>
   Her paketin ⚙ ekranında etkin alan adı, erişim kontrolü ve yönlendirme güncellemesi bulunur.
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/wiojelt"><img src="https://img.shields.io/badge/made_with-%E2%99%A5-c394d5?style=flat-square" alt="made with ♥"></a>
+  <img src="https://img.shields.io/badge/made_with-%E2%99%A5-c394d5?style=flat-square" alt="made with ♥">
   <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin"></a>
 </p>
 
@@ -23,10 +23,12 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/wiojelt"><img src="https://img.shields.io/badge/%40wiojelt-24292f?style=flat-square&amp;logo=x&amp;logoColor=white" alt="Twitter @wiojelt"></a>
   <a href="https://github.com/Wiojelt"><img src="https://img.shields.io/badge/%40wiojelt-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub @wiojelt"></a>
   <a href="https://t.me/wioj3lt"><img src="https://img.shields.io/badge/%40wioj3lt-24292f?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram @wioj3lt"></a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FTurkSinema%2Fmain%2Fstats.json&amp;query=%24.views.uniques&amp;label=14%20g%C3%BCnl%C3%BCk%20tekil%20ziyaret&amp;color=7F52FF" alt="14 günlük tekil GitHub ziyareti">
 </p>
+
+İstatistik yalnızca GitHub'ın 14 günlük toplu ziyaret/klon sayacıdır; eklenti cihazdan kimlik, izleme geçmişi veya telemetri göndermez ve aktif kullanıcı sayısı olarak yorumlanmamalıdır.
 
 <details>
 <summary>⚖ DMCA</summary>
@@ -45,7 +47,9 @@ TurkSinema, üçüncü taraf servislerden bağlantı ve oynatma bilgisi alan Clo
   </a>
 </p>
 
-**Kısa kod: `turksinema`**
+**Önerilen yöntem: güncel CloudStream Beta / pre-release sürümünde `!turksinema` yazın.**
+
+Eski `cutt.ly` kısa bağlantıları Türkiye'den açılamayabildiği için ünlemsiz eski kod yerine Beta'daki yeni `py.md` yöntemi kullanılır.
 
 CloudStream → Ayarlar → Eklentiler → Depo ekle. Kısa kod açılmazsa tam adres:
 
@@ -56,5 +60,5 @@ https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/repo.json
 Depo eklenmiyorsa [WARP](https://one.one.one.one/) ile tekrar deneyin.
 
 <p align="center">
-  <a href="PROVIDERS.md">57+ sağlayıcı</a> · <a href="NOTICE.md">Atıflar</a> · <a href="LICENSE">GPL-3.0</a>
+  <a href="PROVIDERS.md">56 ayrı eklenti</a> · <a href="NOTICE.md">Atıflar</a> · <a href="LICENSE">GPL-3.0</a>
 </p>
