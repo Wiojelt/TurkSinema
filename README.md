@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <strong>56 ayrı indirilebilir film, dizi, anime ve belgesel eklentisi</strong><br>
-  Her paketin ⚙ ekranında etkin alan adı, erişim kontrolü ve yönlendirme güncellemesi bulunur.
+  <strong> Her paketin ⚙ ekranında etkin alan adı, erişim kontrolü ve yönlendirme güncellemesi bulunur.</strong><br>
+ 
 </p>
 
 <p align="center">
