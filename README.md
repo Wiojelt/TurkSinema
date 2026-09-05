@@ -58,7 +58,3 @@ https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/repo.json
 ```
 
 Depo eklenmiyorsa [WARP](https://one.one.one.one/) ile tekrar deneyin.
-
-<p align="center">
-  <a href="PROVIDERS.md">56 ayrı eklenti</a> · <a href="NOTICE.md">Atıflar</a> · <a href="LICENSE">GPL-3.0</a>
-</p>
