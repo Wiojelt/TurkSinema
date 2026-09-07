@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="TurkSinema — 56 ayrı CloudStream film ve dizi sağlayıcısı." width="100%">
+  <img src="assets/banner.png" alt="TurkSinema — 57 ayrı CloudStream film ve dizi sağlayıcısı." width="100%">
 </p>
 
 <p align="center">

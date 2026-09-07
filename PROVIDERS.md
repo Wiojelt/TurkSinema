@@ -1,6 +1,6 @@
 # Sağlayıcılar
 
-Derleme sırasında 56 ayrı indirilebilir eklenti paketi bulunur. Yanıt vermeyen ve doğrulanabilir güncel adresi bulunamayan RecTV paketi katalogdan çıkarılmıştır.
+Derleme sırasında 57 ayrı indirilebilir eklenti paketi bulunur. Yanıt vermeyen ve doğrulanabilir güncel adresi bulunamayan RecTV paketi katalogdan çıkarılmıştır.
 
 ## SalooRepo — 29
 
@@ -68,9 +68,10 @@ Derleme sırasında 56 ayrı indirilebilir eklenti paketi bulunur. Yanıt vermey
 53. Hotstar Mirror
 54. Disney Plus
 
-## Wiojelt Gold — 2
+## Wiojelt Gold — 3
 
 55. ClipBox
 56. FlixNetwork (dizinden çalışan alanı seçer, çoklu oynatıcıları tek sağlayıcıda toplar)
+57. StreamXTV (film/dizi kataloğu, sezon-bölüm ayrımı, afişler ve çoklu oynatıcılar)
 
 `Alternatif` girdiler aynı site ailesi için farklı uygulamalardır; ana sürüm bozulduğunda yedek olarak tutulur.
