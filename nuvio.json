@@ -1,0 +1,9 @@
+{
+  "name": "TurkSinema",
+  "description": "Nuvio Desktop için CNCVerse Bridge deposu; doğrudan Nuvio JS eklentisi değildir.",
+  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/plugins.json"
+  ]
+}

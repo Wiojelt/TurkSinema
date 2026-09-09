@@ -1,3 +1,5 @@
+<p align="center"><a href="NUVIO.md"><strong>Nuvio Desktop kurulumu (CNCVerse Bridge)</strong></a></p>
+
 <p align="center">
   <img src="assets/banner.png" alt="TurkSinema — 57 ayrı CloudStream film ve dizi sağlayıcısı." width="100%">
 </p>
