@@ -1248,9 +1248,9 @@
     "fileHash": "sha256-e99ae928837cf488f548880088fce082c46fd13d8a78363408febce8e7b99837"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/ca6bdcf5c831e89d18fd035674a3bc41905f9890/InatBox.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/6c7ca578044f4c34d7b594dc02bba466aa81c23c/InatBox.cs3",
     "status": 3,
-    "version": 10,
+    "version": 11,
     "name": "InatBox",
     "internalName": "InatBox",
     "authors": [
@@ -1266,7 +1266,7 @@
       "megix"
     ],
     "description": "Inat Box · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 52387,
+    "fileSize": 67870,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1277,7 +1277,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/InatBox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-73c5d464b4cdb997dad6305898253aeddf555998b61b903b97b1fc530cf39c6d"
+    "fileHash": "sha256-f0a40a510e605cf31b32e16c8de8b48ebb43e4d26534db5546088a720d7fe6e1"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/ca6bdcf5c831e89d18fd035674a3bc41905f9890/InternetArchive.cs3",
