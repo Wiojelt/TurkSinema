@@ -1,5 +1,25 @@
 [
   {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkSinemaDestek.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "00 · TurkSinema'ya destek ol ☕",
+    "internalName": "TurkSinemaDestek",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "TurkSinema’ya destek ol ☕ · @wiojelt · made with ♥",
+    "fileSize": 4414,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Others"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/support-qr.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-aad0b8245ee3dfdf7fa0f0129cedf49eb8b5be476e56b2de678a9400fdae3744"
+  },
+  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/ca6bdcf5c831e89d18fd035674a3bc41905f9890/AltiYuzAltmisAltiFilmIzle.cs3",
     "status": 3,
     "version": 8,
