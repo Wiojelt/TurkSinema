@@ -1,0 +1,34 @@
+name: Hourly Domain Sync
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-domains:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Dependencies
+        run: pip install requests urllib3
+
+      - name: Verify & Update Domains
+        run: python .github/scripts/update_domains.py
+
+      - name: Commit & Push if Changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add domains.json
+          git diff --cached --quiet || (git commit -m "chore(domains): hourly auto-update rotating domains [skip ci]" && git push origin main)
