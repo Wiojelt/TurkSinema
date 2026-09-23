@@ -1,6 +1,6 @@
 {
   "name": "TurkSinema",
-  "description": "Türkçe film, dizi, anime ve belgesel sağlayıcıları",
+  "description": "Türkçe film, dizi ve belgesel sağlayıcıları",
   "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
   "manifestVersion": 1,
   "pluginLists": [
