@@ -1,5 +1,21 @@
 [
   {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/655c339/CizgiVeDizi.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "ÇizgiVeDizi",
+    "internalName": "CizgiVeDizi",
+    "authors": ["Wiojelt"],
+    "description": "Çizgi, anime, dizi ve film sağlayıcısı",
+    "fileSize": 16760,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": ["Movie", "TvSeries", "Anime"],
+    "iconUrl": "https://cizgivedizi.com/Logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-dc2f0859f28f11001061661d450adf6226074d4ef2330032c76757c5d1926ad6"
+  },
+  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/82b5a8dd8e568ae2eb6d4fd4e6c86fab0c0a36ff/AltiYuzAltmisAltiFilmIzle.cs3",
     "status": 3,
     "version": 8,
