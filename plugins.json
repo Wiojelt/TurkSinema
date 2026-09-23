@@ -1254,50 +1254,6 @@
     "fileHash": "sha256-9a3be8fb22844a0b9fa20d2e914ed20649baf322530dfcdf9069c70929bc0fc2"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/656ebdfbe48241279b0a6a47266bd1cbdf21b238/WioAnime.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "WioAnime",
-    "internalName": "WioAnime",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Anime sağlayıcılarını tek katalogda birleştirir; kaynaklar ayarlardan seçilebilir.",
-    "fileSize": 2035784,
-    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
-    "language": "tr",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAnime/main/assets/logo.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-918c4df26f139261c483e9789e50cfb16ba641e04729c2f034e078428ca2c491"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/656ebdfbe48241279b0a6a47266bd1cbdf21b238/WioAsya.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "WioAsya",
-    "internalName": "WioAsya",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Asya dizisi sağlayıcılarını tek katalogda birleştirir; kaynaklar ayarlardan seçilebilir.",
-    "fileSize": 2035874,
-    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "AsianDrama"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAsya/main/assets/logo.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-485e19dc903c378c30452307debb43f26cfe2b9ae00c60f2886339358cd70063"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/656ebdfbe48241279b0a6a47266bd1cbdf21b238/YabanciDizi.cs3",
     "status": 3,
     "version": 7,
