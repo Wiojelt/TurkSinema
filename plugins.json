@@ -1588,26 +1588,6 @@
     "fileHash": "sha256-9a3be8fb22844a0b9fa20d2e914ed20649baf322530dfcdf9069c70929bc0fc2"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/130a2abbceff500a826e782af29178a0cab5bba8/WioPollTest.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "WioPollTest",
-    "internalName": "WioPollTest",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Eklenti Oylaması Pop-up Test Eklentisi (10s Geri Sayım & Yönlendirme)",
-    "fileSize": 64209,
-    "repositoryUrl": "https://github.com/Wiojelt/test",
-    "language": "tr",
-    "tvTypes": [
-      "Others"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/icon.gif",
-    "apiVersion": 1,
-    "fileHash": "sha256-849ab199279dea3ea2c5dd38d1da6308074d489bb032977947d4ff1e088576e8"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/130a2abbceff500a826e782af29178a0cab5bba8/YabanciDizi.cs3",
     "status": 3,
     "version": 7,
