@@ -58,9 +58,8 @@ Anime sağlayıcıları **WioAnime**, Asya dizisi sağlayıcıları **WioAsya**,
 50. Sinewix
 51. Tlctr
 52. TrDiziIzle
-53. TurkSinemaDestek
-54. Watch2Movies
-55. WebteIzle
-56. YabanciDizi
-57. YesilCamTv
+53. Watch2Movies
+54. WebteIzle
+55. YabanciDizi
+56. YesilCamTv
 
