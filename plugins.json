@@ -160,14 +160,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/2874da80fc72f5ebcee1398485f8594d4be790b1/CizgiVeDizi.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "CizgiVeDizi",
     "internalName": "CizgiVeDizi",
     "authors": [
       "Wiojelt"
     ],
     "description": "Çizgi, anime, dizi ve film kataloğu; güncel merkez player ve bölüm kaynaklarını çözer.",
-    "fileSize": 31522,
+    "fileSize": 32242,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -177,7 +177,7 @@
     ],
     "iconUrl": "https://cizgivedizi.com/Logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a5f89ce9b067d105da309a71334d628539464ff2afc35b22edc1bc65c1e14c2d"
+    "fileHash": "sha256-c8ddb54250989e6e76659254378d764ac8a2a0758cfb1f6c16b7885357d374c9"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/2874da80fc72f5ebcee1398485f8594d4be790b1/ClipBox.cs3",
