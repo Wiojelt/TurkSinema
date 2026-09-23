@@ -156,26 +156,6 @@
     "fileHash": "sha256-7341e06faf8a606d2f6a040c6e2bf3eb50dd3c9ecff842be6b8ef36e15234105"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/656ebdfbe48241279b0a6a47266bd1cbdf21b238/BirdirbirIPTV.cs3",
-    "status": 3,
-    "version": 21,
-    "name": "BirdirbirIPTV",
-    "internalName": "BirdirbirIPTV",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "v10 IPTV - Türk Spor (beIN, S Sport, Tivibu), Türk Ulusal, Haber, Belgesel & Çocuk ve Dünya Spor Kanalları (Sky, TNT, ESPN, Canal+, DAZN, Polsat, Ziggo)",
-    "fileSize": 219912,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/icon.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-6cd53630f987790721ca59ff5a12cba260d9819668126c45190a1d92b5b20c2a"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/656ebdfbe48241279b0a6a47266bd1cbdf21b238/CineCat.cs3",
     "status": 3,
     "version": 2,
@@ -1109,28 +1089,6 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/logos/mapple.png",
     "apiVersion": 1,
     "fileHash": "sha256-af323f282d7a07952774bb985751fb6a23e6ab1e6c81cbd07f2fe56d00a6e5d5"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/656ebdfbe48241279b0a6a47266bd1cbdf21b238/MovieBoxProvider.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "MovieBoxProvider",
-    "internalName": "MovieBoxProvider",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "CNCVerse kaynaklı MovieBoxProvider paketi · izinli harici derleme",
-    "fileSize": 82602,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "en",
-    "tvTypes": [
-      "Movie",
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-5ddbfba13f10d1bb92df74d475c6c04a7c11dc108a91d72230a33aa71352b98c",
-    "externalPath": "external/CNCVerse/MovieBoxProvider.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/656ebdfbe48241279b0a6a47266bd1cbdf21b238/NetFilmizle.cs3",
