@@ -1,7 +1,7 @@
 <p align="center"><a href="NUVIO.md"><strong>Nuvio Desktop kurulumu (CNCVerse Bridge)</strong></a></p>
 
 <p align="center">
-  <img src="assets/banner.png" alt="TurkSinema — 59 ayrı CloudStream film ve dizi sağlayıcısı." width="100%">
+  <img src="assets/banner.png" alt="TurkSinema — 57 ayrı CloudStream film ve dizi sağlayıcısı." width="100%">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>59 ayrı indirilebilir film, dizi ve belgesel eklentisi</strong><br>
+  <strong>57 ayrı indirilebilir film, dizi ve belgesel eklentisi</strong><br>
   Her paketin ⚙ ekranında etkin alan adı, erişim kontrolü ve yönlendirme güncellemesi bulunur.<br>
  
 </p>
@@ -63,5 +63,5 @@ https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/repo.json
 Depo eklenmiyorsa [WARP](https://one.one.one.one/) ile tekrar deneyin.
 
 <p align="center">
-  <a href="PROVIDERS.md">59 ayrı eklenti</a> · <a href="NOTICE.md">Atıflar</a> · <a href="LICENSE">GPL-3.0</a>
+  <a href="PROVIDERS.md">57 ayrı eklenti</a> · <a href="NOTICE.md">Atıflar</a> · <a href="LICENSE">GPL-3.0</a>
 </p>
