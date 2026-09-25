@@ -935,20 +935,6 @@
     "fileHash": "sha256-ae62e6f49cda20267f4b00b81b49ac4bd5304eb6e5cb826f63cb18426dbba5fa"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/09f2a2834d33944e8bea28de4b0ef5150f4ea511/MegaWio.cs3",
-    "status": 3,
-    "version": -1,
-    "name": "MegaWio",
-    "internalName": "MegaWio",
-    "authors": [
-      "Wiojelt"
-    ],
-    "fileSize": 13279,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "apiVersion": 1,
-    "fileHash": "sha256-48830965d04dc757085d1cf8327f251cf0bfba2b2eeec37f1167acd4782e9339"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/09f2a2834d33944e8bea28de4b0ef5150f4ea511/NetFilmizle.cs3",
     "status": 3,
     "version": 1,
@@ -1289,27 +1275,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-9ba8f9ac8cb6c0434ac244e82363ddf16a3f2efa74d2cdc71353bf6d80425acc"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/09f2a2834d33944e8bea28de4b0ef5150f4ea511/WioCinema.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "WioCinema",
-    "internalName": "WioCinema",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Global movie and series providers with TMDB/IMDb catalog matching.",
-    "fileSize": 2032700,
-    "repositoryUrl": "https://github.com/Wiojelt/WioCinema",
-    "language": "en",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/logo.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-bbfc324973507546a21687fa0f641e3bfb7603e99f6113b09bb2409a7911418d"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/09f2a2834d33944e8bea28de4b0ef5150f4ea511/YabanciDizi.cs3",
