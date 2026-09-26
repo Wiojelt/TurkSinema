@@ -4,6 +4,6 @@
   "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/wiokids/assets/logo.png",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/wiokids/plugins.json"
+    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/wiokids/plugins.json?v=96ab96f8942f5e84018d1b6395012f895ece2e6e"
   ]
 }
