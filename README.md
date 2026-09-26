@@ -1,67 +1,28 @@
-<p align="center"><a href="NUVIO.md"><strong>Nuvio Desktop kurulumu (CNCVerse Bridge)</strong></a></p>
+# WioKids
 
-<p align="center">
-  <img src="assets/banner.png" alt="TurkSinema — 57 ayrı CloudStream film ve dizi sağlayıcısı." width="100%">
-</p>
+CloudStream için Türkçe çizgi film ve çocuk içerikleri deposu.
 
-<p align="center">
-  <a href="https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/Wiojelt/TurkSinema/main/repo.json"><img src="assets/logo.png" width="180" alt="TurkSinema deposunu CloudStream'e ekle"></a><br>
-  <strong>Logoya dokun: TurkSinema deposu CloudStream'e eklenir.</strong>
-</p>
+## Kaynaklar
 
-<p align="center">
-  <strong>57 ayrı indirilebilir film, dizi ve belgesel eklentisi</strong><br>
-  Her paketin ⚙ ekranında etkin alan adı, erişim kontrolü ve yönlendirme güncellemesi bulunur.<br>
- 
-</p>
+- ÇizgiMax
+- ÇizgiVeDizi
+- Çizgi Portal
+- ÇizgiFilmİzle Info
+- İzleOyna
+- ÇizgiFilm TV
+- ÇizgiDizi.net
+- Çizgi Site
+- Minika Çocuk
+- Minika GO
 
-<p align="center">
-  <img src="https://img.shields.io/badge/made_with-%E2%99%A5-c394d5?style=flat-square" alt="made with ♥">
-  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin"></a>
-</p>
+## YouTube fallback
 
-<p align="center">
-  <a href="https://kreosus.com/wiojelt"><img src="assets/support-qr.png" width="112" alt="Kreosus — Wiojelt"></a><br>
-  <a href="https://kreosus.com/wiojelt">Kreosus üzerinden destek ol ☕</a>
-</p>
+YouTube ayrı bir sağlayıcı olarak sayılmaz. Bir içerik/bölüm oynatılırken WioKids, site kaynaklarının yanında aynı başlık ve bölüm bilgisini YouTube'da da arar. Uygun sonuç bulunursa CloudStream'in YouTube extractor'ı üzerinden alternatif bağlantı olarak eklenir.
 
-<p align="center">
-  <a href="https://github.com/Wiojelt"><img src="https://img.shields.io/badge/%40wiojelt-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub @wiojelt"></a>
-  <a href="https://t.me/wioj3lt"><img src="https://img.shields.io/badge/%40wioj3lt-24292f?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram @wioj3lt"></a>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FTurkSinema%2Fmain%2Fstats.json&amp;query=%24.views.uniques&amp;label=14%20g%C3%BCnl%C3%BCk%20tekil%20ziyaret&amp;color=7F52FF" alt="14 günlük tekil GitHub ziyareti">
-</p>
+## CloudStream depo adresi
 
-İstatistik yalnızca GitHub'ın 14 günlük toplu ziyaret/klon sayacıdır; eklenti cihazdan kimlik, izleme geçmişi veya telemetri göndermez ve aktif kullanıcı sayısı olarak yorumlanmamalıdır.
-
-<details>
-<summary>⚖ DMCA</summary>
-
-TurkSinema provides CloudStream extensions that retrieve links and playback information from third-party services. This repository does not host movies, series, or video files. Third-party content and trademarks belong to their respective owners. Copyright concerns about third-party content should be directed to its host; concerns about material in this repository can be reported through [Issues](https://github.com/Wiojelt/TurkSinema/issues).
-
-TurkSinema, üçüncü taraf servislerden bağlantı ve oynatma bilgisi alan CloudStream eklentileri sunar. Bu depo film, dizi veya video dosyası barındırmaz. İçerikler ve markalar ilgili hak sahiplerine aittir. Üçüncü taraf içeriklere ilişkin telif bildirimleri içeriğin barındırıldığı hizmete; depodaki materyallerle ilgili bildirimler [Issues](https://github.com/Wiojelt/TurkSinema/issues) üzerinden iletilebilir.
-
-</details>
-
-## 📥 Kurulum
-
-<p align="center">
-  <a href="https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/Wiojelt/TurkSinema/main/repo.json">
-    <img src="https://img.shields.io/badge/CloudStream-TurkSinema%20Deposunu%20Ekle-blue?style=for-the-badge" alt="CloudStream — TurkSinema Deposunu Ekle">
-  </a>
-</p>
-
-**Önerilen yöntem: güncel CloudStream Beta / pre-release sürümünde `!turksinema` yazın.**
-
-Eski `cutt.ly` kısa bağlantıları Türkiye'den açılamayabildiği için ünlemsiz eski kod yerine Beta'daki yeni `py.md` yöntemi kullanılır.
-
-CloudStream → Ayarlar → Eklentiler → Depo ekle. Kısa kod açılmazsa tam adres:
-
-```text
-https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/repo.json
+```
+https://raw.githubusercontent.com/Wiojelt/TurkSinema/wiokids/repo.json
 ```
 
-Depo eklenmiyorsa [WARP](https://one.one.one.one/) ile tekrar deneyin.
-
-<p align="center">
-  <a href="PROVIDERS.md">57 ayrı eklenti</a> · <a href="NOTICE.md">Atıflar</a> · <a href="LICENSE">GPL-3.0</a>
-</p>
+made by **@Wiojelt**
