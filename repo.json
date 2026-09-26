@@ -1,9 +1,9 @@
 {
-  "name": "TurkSinema",
-  "description": "Türkçe film, dizi ve belgesel sağlayıcıları",
-  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+  "name": "WioKids",
+  "description": "CloudStream için Türkçe çizgi film ve çocuk içerikleri deposu. 10 site sağlayıcısı + ortak YouTube fallback.",
+  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/wiokids/assets/logo.png",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/plugins.json?v=0f71bae"
+    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/wiokids/plugins.json"
   ]
 }
