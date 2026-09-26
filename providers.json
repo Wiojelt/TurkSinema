@@ -1,0 +1,18 @@
+{
+  "providers": [
+    "CizgiMax",
+    "CizgiVeDizi",
+    "CizgiPortal",
+    "CizgiFilmIzleInfo",
+    "IzleOyna",
+    "CizgiFilmTv",
+    "CizgiDiziNet",
+    "CizgiSite",
+    "MinikaCocuk",
+    "MinikaGO"
+  ],
+  "youtube": {
+    "countedAsProvider": false,
+    "mode": "shared-title-episode-fallback"
+  }
+}
