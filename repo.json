@@ -1,9 +1,9 @@
 {
   "name": "WioKids",
-  "description": "CloudStream için Türkçe çizgi film ve çocuk içerikleri deposu. 10 site sağlayıcısı + ortak YouTube fallback.",
+  "description": "CloudStream için yerli ve yabancı çizgi film, animasyon ve çocuk içerikleri deposu (Türkçe dublaj, altyazı ve orijinal ses).",
   "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/wiokids/assets/logo.png",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/wiokids/plugins.json?v=a4c40420931303d55d41a5882d72fc4bc8be69b3"
+    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/wiokids/plugins.json"
   ]
 }

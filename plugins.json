@@ -1,7 +1,7 @@
 [
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a4c40420931303d55d41a5882d72fc4bc8be69b3/CizgiMax.cs3",
-    "status": 3,
+    "status": 1,
     "version": 10,
     "name": "CizgiMax",
     "internalName": "CizgiMax",
@@ -218,5 +218,118 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=minikago.com.tr&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-032e92cc5e874f263772491cc9f573dc17d1c726206ebb34309cb0f8918c8f89"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/Watch2Movies.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Watch2Movies",
+    "internalName": "Watch2Movies",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WioKids · Yabancı çizgi film, animasyon ve Disney/Pixar filmleri (Orijinal Ses & Çoklu Dil)",
+    "fileSize": 115231,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-5419522eadf631fd8c9264fb2989b52f538a70bd3219e11df1e9377ab8ab68c3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/DiziMom.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "DiziMom",
+    "internalName": "DiziMom",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WioKids · Popüler animasyon ve çizgi diziler (Türkçe Dublaj & Altyazı)",
+    "fileSize": 124866,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziMom.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-e85b84e528737004c6d631ed943a63362ff8bf97878e116aa102fe837f024e9c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/SezonlukDizi.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "SezonlukDizi",
+    "internalName": "SezonlukDizi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WioKids · Çizgi dizi arşivi, alternatif sunucular (Türkçe Dublaj & Altyazı)",
+    "fileSize": 113296,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-b10b3e61cbdff5be3ee08aaec158c1994c01c67479d03e062b90683f321d7437"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/TrAnimeIzle.cs3",
+    "status": 1,
+    "version": 2,
+    "name": "TrAnimeIzle",
+    "internalName": "TrAnimeIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WioKids · Anime ve animasyon serileri (Türkçe Dublaj & Altyazı)",
+    "fileSize": 29300,
+    "repositoryUrl": "https://github.com/Wiojelt/test",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://www.tranimeizle.live/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-a7ead2850a4e683c9fdd7ad1a5017f46b69de98bc07d843c9a59691628527a1a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/AniArsiv.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "AniArsiv",
+    "internalName": "AniArsiv",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WioKids · Klasik ve güncel animasyon arşivi",
+    "fileSize": 18514,
+    "repositoryUrl": "https://github.com/Wiojelt/test",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://aniarsiv.com/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-61264ace6ef6d1974813edc9fa6411635a1e2a58eede2ec67bdbed86243fcc09"
   }
 ]
