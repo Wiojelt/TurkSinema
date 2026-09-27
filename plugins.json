@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/CizgiMax.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a4c40420931303d55d41a5882d72fc4bc8be69b3/CizgiMax.cs3",
     "status": 3,
     "version": 10,
     "name": "CizgiMax",
@@ -23,7 +23,7 @@
     "fileHash": "sha256-b34a240c139d2da90b2f509f7721edd3859597b3f1f2f65314361f2278377713"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/CizgiVeDizi.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a4c40420931303d55d41a5882d72fc4bc8be69b3/CizgiVeDizi.cs3",
     "status": 1,
     "version": 21,
     "name": "CizgiVeDizi",
@@ -45,7 +45,7 @@
     "fileHash": "sha256-450cb310d9fa911ce78312b37c9fc0216d55e4d11a7cb8c5a31d8f90b01b92c4"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/CizgiPortal.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a4c40420931303d55d41a5882d72fc4bc8be69b3/CizgiPortal.cs3",
     "status": 1,
     "version": 3,
     "name": "CizgiPortal",
@@ -67,7 +67,7 @@
     "fileHash": "sha256-beb33d64a2c8d311c13ae6d1e16cebfe3428da6da8c9a3f7843f526f069d8ada"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/CizgiFilmIzleInfo.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a4c40420931303d55d41a5882d72fc4bc8be69b3/CizgiFilmIzleInfo.cs3",
     "status": 1,
     "version": 3,
     "name": "CizgiFilmIzleInfo",
@@ -89,7 +89,7 @@
     "fileHash": "sha256-b12bfbcbec5417959456b86492a9625b43f7745d3247cf72319c7dba27ffed59"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/IzleOyna.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a4c40420931303d55d41a5882d72fc4bc8be69b3/IzleOyna.cs3",
     "status": 1,
     "version": 3,
     "name": "IzleOyna",
@@ -111,7 +111,7 @@
     "fileHash": "sha256-a4d8d263dd974d068961ee04a69301f5158fd0f9330664b65d22a0df3a135cbf"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/CizgiFilmTv.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a4c40420931303d55d41a5882d72fc4bc8be69b3/CizgiFilmTv.cs3",
     "status": 1,
     "version": 3,
     "name": "CizgiFilmTv",
@@ -133,7 +133,7 @@
     "fileHash": "sha256-c61c96a3610165a7524b1cd50a16287636b90e4e9d1eefdbff3d70c799794064"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/CizgiDiziNet.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a4c40420931303d55d41a5882d72fc4bc8be69b3/CizgiDiziNet.cs3",
     "status": 1,
     "version": 4,
     "name": "CizgiDiziNet",
@@ -154,7 +154,7 @@
     "fileHash": "sha256-8687c1c2b1b1d7795f645ccb5f856fdb0003cf2b49a7036ce1dd35cb689458b7"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/CizgiSite.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a4c40420931303d55d41a5882d72fc4bc8be69b3/CizgiSite.cs3",
     "status": 1,
     "version": 3,
     "name": "CizgiSite",
@@ -176,7 +176,7 @@
     "fileHash": "sha256-5bdfa9c15d58f413b9a1cbe5f15a82c3e128aecfece9dc41b5107a032760155a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/MinikaCocuk.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a4c40420931303d55d41a5882d72fc4bc8be69b3/MinikaCocuk.cs3",
     "status": 1,
     "version": 3,
     "name": "MinikaCocuk",
@@ -198,7 +198,7 @@
     "fileHash": "sha256-695105e0f2864cf6d423fbe457565274f38ddbede8cc225ba59a4a10f1fe581a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/5b41ae19abbc419106af1ddf08c7bc68134138c1/MinikaGO.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a4c40420931303d55d41a5882d72fc4bc8be69b3/MinikaGO.cs3",
     "status": 1,
     "version": 3,
     "name": "MinikaGO",
