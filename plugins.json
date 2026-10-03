@@ -1132,14 +1132,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a3ac3ff2cca6819027ca96a69e3e5f4d0d80c876/PowerSinema.cs3",
     "status": 3,
-    "version": 1,
+    "version": 2,
     "name": "PowerSinema",
     "internalName": "PowerSinema",
     "authors": [
       "Wiojelt"
     ],
     "description": "Power Sinema · 9.000+ Yerli & Yabancı Sinema, Animasyon ve Seri Filmler",
-    "fileSize": 113880,
+    "fileSize": 125562,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1149,7 +1149,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-f52d4207317946bca9182262eabb3009c7eabb2a902896fb87117b00195771f2"
+    "fileHash": "sha256-c598dcad72acc41e37ab30db4af20d29508dae6ddd2ff8c9ee25a2ff35f71928"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a3ac3ff2cca6819027ca96a69e3e5f4d0d80c876/RareFilmm.cs3",
