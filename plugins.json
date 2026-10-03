@@ -1426,16 +1426,16 @@
     "fileHash": "sha256-5419522eadf631fd8c9264fb2989b52f538a70bd3219e11df1e9377ab8ab68c3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/2a844fd23deca6199c012c4da24d88b9cfe46255/WebteIzle.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WebteIzle.cs3?v=04b713b4ca4675ab6df2f8868d0fcaa838af0f723be7e822ff2478f1074ce07d",
     "status": 3,
-    "version": 8,
+    "version": 15,
     "name": "WebteIzle",
     "internalName": "WebteIzle",
     "authors": [
       "Wiojelt"
     ],
     "description": "Webte Izle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 117743,
+    "fileSize": 117745,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1446,7 +1446,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-6396e4a4e0a98ca35739c474c659fa90184baff700f32ebcaf23d97fd12dbcc6"
+    "fileHash": "sha256-04b713b4ca4675ab6df2f8868d0fcaa838af0f723be7e822ff2478f1074ce07d"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/2a844fd23deca6199c012c4da24d88b9cfe46255/WioCinema.cs3",
