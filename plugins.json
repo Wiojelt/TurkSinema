@@ -474,14 +474,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/bacc2f1bafa3576cdc8f063c5467f11334c24d18/DiziBox.cs3",
     "status": 3,
-    "version": 7,
+    "version": 8,
     "name": "DiziBox",
     "internalName": "DiziBox",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Box · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 113878,
+    "fileSize": 115110,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -492,7 +492,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-88a50827bac42af551adea98c6dc3253aab536671a2100f8d24089b61501aa03"
+    "fileHash": "sha256-ba3fe1b767f66cc581a8658653a627b451e11af68a532923e1742a8a942727a6"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/bacc2f1bafa3576cdc8f063c5467f11334c24d18/DiziFilmIzle.cs3",
@@ -520,14 +520,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/bacc2f1bafa3576cdc8f063c5467f11334c24d18/Dizilla.cs3",
     "status": 3,
-    "version": 7,
+    "version": 8,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 126105,
+    "fileSize": 129862,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -538,7 +538,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-9184eb5c093500af266760a2c737f52d62c8e4fb636b0c373a04cfbbfd09edc7"
+    "fileHash": "sha256-e5c02f0ac4aadc8dca2b207c42ef0d233fdabf681bc8c22d9b095558f9f77ee7"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/bacc2f1bafa3576cdc8f063c5467f11334c24d18/DiziMom.cs3",
@@ -1245,14 +1245,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/bacc2f1bafa3576cdc8f063c5467f11334c24d18/SezonlukDizi.cs3",
     "status": 3,
-    "version": 7,
+    "version": 8,
     "name": "SezonlukDizi",
     "internalName": "SezonlukDizi",
     "authors": [
       "Wiojelt"
     ],
     "description": "Sezonluk Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 113296,
+    "fileSize": 114593,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1263,7 +1263,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b10b3e61cbdff5be3ee08aaec158c1994c01c67479d03e062b90683f321d7437"
+    "fileHash": "sha256-e3dedf1ab02bb95da47ab4aed580857a6c246c86f31558c085fed54282387f18"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/bacc2f1bafa3576cdc8f063c5467f11334c24d18/SinemaCX.cs3",
