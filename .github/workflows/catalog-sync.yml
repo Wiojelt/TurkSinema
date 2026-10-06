@@ -1,0 +1,55 @@
+name: Catalog Sync
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalog-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Prepare sync script
+        run: cp .github/scripts/sync_catalog.py /tmp/sync_catalog.py
+
+      - name: Sync builds branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git checkout builds
+          python /tmp/sync_catalog.py
+          git add plugins.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(catalog): sync package metadata [skip ci]"
+            git push origin builds
+          fi
+
+      - name: Sync wiokids branch
+        run: |
+          if git ls-remote --exit-code --heads origin wiokids >/dev/null 2>&1; then
+            git checkout wiokids
+            python /tmp/sync_catalog.py
+            git add plugins.json
+            if ! git diff --cached --quiet; then
+              git commit -m "chore(catalog): sync package metadata [skip ci]"
+              git push origin wiokids
+            fi
+          fi
