@@ -474,14 +474,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/948285d4779fc9261e576287bbc43ec08f8076d8/DiziBox.cs3",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "DiziBox",
     "internalName": "DiziBox",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Box · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 115110,
+    "fileSize": 115926,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -492,7 +492,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-ba3fe1b767f66cc581a8658653a627b451e11af68a532923e1742a8a942727a6"
+    "fileHash": "sha256-8ffd8fb0798259a4f87b6b5914707ed58f84a99870ca916e99fe9f252a74297e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/948285d4779fc9261e576287bbc43ec08f8076d8/DiziFilmIzle.cs3",
