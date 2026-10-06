@@ -382,14 +382,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/212d109d663656de07ef0694959ec0866a80b8e1/DDizi.cs3",
     "status": 3,
-    "version": 7,
+    "version": 8,
     "name": "DDizi",
     "internalName": "DDizi",
     "authors": [
       "Wiojelt"
     ],
     "description": "D Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 111519,
+    "fileSize": 111525,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -398,9 +398,9 @@
       "Anime",
       "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.im&sz=128",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.tel&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-18599148eb0ce9e47f6d382534af80a90c420222fb47440403d346198fdccd2f"
+    "fileHash": "sha256-f4216761209064eef9813b2bcb0eabe644ca3fd7c78f3f37771fe9b940bf7fe9"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/212d109d663656de07ef0694959ec0866a80b8e1/DiziBal.cs3",
@@ -1511,5 +1511,28 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=yesilcamtv.com.tr&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-b9c5f30bd0a5b46c76f812e5e2ae171fa71c3d9f6febdbbc0a2aa3250dce9f82"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DDiziAlternatif.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "DDizi • Alternatif",
+    "internalName": "DDiziAlternatif",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "D Dizi Alternatif · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 117527,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.tel&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-159c80380f2eb6ea7ccc0063f9b2cdb5040986333e04fde14260cfe8cf95f214"
   }
 ]
