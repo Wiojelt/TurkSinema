@@ -481,7 +481,7 @@
       "Wiojelt"
     ],
     "description": "Dizi Box · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 117367,
+    "fileSize": 117434,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -492,7 +492,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-77d4c37e3fc6d8469910689d5047d906f28ed527ac2f67f35b416686d503088c"
+    "fileHash": "sha256-8653a810cddca50a9bdd2ce072d85b05ae212f371639b9fb23d9929d2789f2ea"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/24788d079be64e5795f40c1b723d5d9eb2801ace/DiziFilmIzle.cs3",
