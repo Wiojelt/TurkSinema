@@ -47,14 +47,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/0d49ccbe5f221c00aab0711917d3cb43b71bffe7/BelgeselX.cs3",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "BelgeselX",
     "internalName": "BelgeselX",
     "authors": [
       "Wiojelt"
     ],
     "description": "Belgesel X · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 129964,
+    "fileSize": 137625,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -65,7 +65,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-94647bf8581cb42c38251165f909b755b1abb975d80c1272db7068891a488606"
+    "fileHash": "sha256-ad6312e611dab4c2a8cff5eae2d74f5a8b58b135c77565d84a4385a68c7012fd"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/0d49ccbe5f221c00aab0711917d3cb43b71bffe7/BingeBang.cs3",
