@@ -566,14 +566,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/bb7314cc4140de043cf0143a4783d0d4a28333f1/DiziPal.cs3",
     "status": 3,
-    "version": 11,
+    "version": 12,
     "name": "DiziPal",
     "internalName": "DiziPal",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Pal · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 126373,
+    "fileSize": 130108,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -584,19 +584,19 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
-    "fileHash": "sha256-667e512ebdb0013cd73f3827e03d76fa494ba37774eebf3d6211eec4dc402da1"
+    "fileHash": "sha256-39bf0f227193a53727d8c08b570f0eed34d4f698a09c8e3c697fc3245562881d"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/bb7314cc4140de043cf0143a4783d0d4a28333f1/DiziPalOriginal.cs3",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "DiziPalOriginal",
     "internalName": "DiziPalOriginal",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Pal Original · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 120030,
+    "fileSize": 132478,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -607,7 +607,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2123.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-3ea85058572c6f1f908d002964c8d9aeaacf2ca61ca8807141dba5398eba8f38"
+    "fileHash": "sha256-f391336a333d3612b9e6570d638d9315874234f58166e5dd1261cc0d4db86cff"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/bb7314cc4140de043cf0143a4783d0d4a28333f1/DiziRella.cs3",
