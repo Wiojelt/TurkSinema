@@ -566,14 +566,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/d9486c028b6c240f0d103684869229d1e1a4f33c/DiziPal.cs3",
     "status": 3,
-    "version": 10,
+    "version": 11,
     "name": "DiziPal",
     "internalName": "DiziPal",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Pal · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 127659,
+    "fileSize": 126373,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -584,7 +584,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
-    "fileHash": "sha256-21bf0ced9b5e47dd7e15ef048d83ea190ceaa432bce2d93a9dfbc89f5208be36"
+    "fileHash": "sha256-667e512ebdb0013cd73f3827e03d76fa494ba37774eebf3d6211eec4dc402da1"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/d9486c028b6c240f0d103684869229d1e1a4f33c/DiziPalOriginal.cs3",
