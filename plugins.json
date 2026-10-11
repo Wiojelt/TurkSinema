@@ -1380,14 +1380,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/Sinewix.cs3",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "Sinewix",
     "internalName": "Sinewix",
     "authors": [
       "Wiojelt"
     ],
     "description": "Sinewix · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 119468,
+    "fileSize": 126166,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1398,7 +1398,7 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
     "apiVersion": 1,
-    "fileHash": "sha256-cd9ec2a5f040999c851dc448bc447deb171ea0504c4df0a6e289e542ad5b3437"
+    "fileHash": "sha256-a1b3e455092abdbf0e1ed2e3ab5b7a289ac2e147c44bd695973ae07406b13806"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/TestDrama.cs3",
