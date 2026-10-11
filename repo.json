@@ -1,9 +1,10 @@
-﻿{
+{
   "name": "TurkSinema",
   "description": "TÃ¼rkÃ§e film, dizi ve belgesel saÄŸlayÄ±cÄ±larÄ±",
   "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/plugins.json?t=1791745636"
-  ]
+    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/plugins.json?t=1791750062"
+  ],
+  "lastUpdated": 1791750062
 }
