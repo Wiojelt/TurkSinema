@@ -795,14 +795,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/FullHDFilmizlesene.cs3",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
     "authors": [
       "Wiojelt"
     ],
     "description": "Full H D Filmizlesene · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 130604,
+    "fileSize": 135490,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -813,7 +813,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.now&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-d698308018e000852b13fab8045a83bfb9ebd44ca3dde2134985534a3039e4f1"
+    "fileHash": "sha256-6f2f80375441403a10643c80d993da24201c4ffe94cca2b47eb146d7382fdd54"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/HDFilmCehennemi.cs3",
