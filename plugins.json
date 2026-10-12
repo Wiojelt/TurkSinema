@@ -1286,16 +1286,16 @@
     "fileHash": "sha256-de6a3491c29768727dc05697a8e4de50d1777d96aa293894e1238fd0a3f3c548"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/SezonlukDizi.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/SezonlukDizi.cs3?v=97a38b36f5c0",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "SezonlukDizi",
     "internalName": "SezonlukDizi",
     "authors": [
       "Wiojelt"
     ],
     "description": "Sezonluk Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 116060,
+    "fileSize": 122853,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1306,7 +1306,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-a4614d53a3cce443e4a31ff0e5e02cb4527d05b4ab990448ea87935d1439b7ab"
+    "fileHash": "sha256-97a38b36f5c012f975ae3de9c160da6e44496234ef86f22c8b88555f60da147b"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/SinemaCX.cs3",
