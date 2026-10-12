@@ -1,10 +1,10 @@
 {
   "name": "TurkSinema",
-  "description": "TÃ¼rkÃ§e film, dizi ve belgesel saÄŸlayÄ±cÄ±larÄ±",
+  "description": "Türkçe film, dizi ve belgesel sağlayıcıları",
   "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/plugins.json?t=1791797129"
+    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/plugins.json?t=1791808224"
   ],
-  "lastUpdated": 1791797129
+  "lastUpdated": 1791808224
 }
