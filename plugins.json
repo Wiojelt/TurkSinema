@@ -566,14 +566,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/DiziPalHub.cs3",
     "status": 3,
-    "version": 19,
+    "version": 20,
     "name": "DiziPalHub",
     "internalName": "DiziPalHub",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziPal Hub · 2225, DDiziPal, Orjinal 14 ve 1588 kaynakları tek merkezde",
-    "fileSize": 214366,
+    "fileSize": 218971,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -584,7 +584,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPalHub.png",
     "apiVersion": 1,
-    "fileHash": "sha256-04423f79abd1061f4aff48dcff2fa40e07d05d08c3bfb0e4bb02ba4c3c663424"
+    "fileHash": "sha256-f5a5ce5ef6551f62f00a467b5ec26f72810a036a40ebcc6c2d9394086948b93f"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/DiziPalOriginal.cs3",
@@ -1380,14 +1380,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/Sinewix.cs3",
     "status": 3,
-    "version": 9,
+    "version": 10,
     "name": "Sinewix",
     "internalName": "Sinewix",
     "authors": [
       "Wiojelt"
     ],
     "description": "Sinewix · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 126166,
+    "fileSize": 131112,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1398,7 +1398,7 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
     "apiVersion": 1,
-    "fileHash": "sha256-a1b3e455092abdbf0e1ed2e3ab5b7a289ac2e147c44bd695973ae07406b13806"
+    "fileHash": "sha256-5ecb0e5b9683f40e2f400173514cd4b41b9da927a87b6b3a24a351c2aaa37ae6"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/TestDrama.cs3",
