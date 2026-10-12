@@ -520,14 +520,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/Dizilla.cs3",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 131693,
+    "fileSize": 134291,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -538,19 +538,19 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-f89de7b97bb39cb12f5b10074c99c61d9db0af48ab8ea6956f02943a3dff55ce"
+    "fileHash": "sha256-9365d4d8d472c463ac4e820fb546d1b06c025c9af4ca971d3171ad6a16450098"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/DiziMom.cs3",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Mom · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 126724,
+    "fileSize": 127829,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -561,19 +561,19 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziMom.png",
     "apiVersion": 1,
-    "fileHash": "sha256-363b18e633f4547081f5798282e183bc82024360e0479b4f3d30825d553adc0f"
+    "fileHash": "sha256-e54265fa3acab5b50e6e5d02f4d2d89479b08816b6c319601afaaf659eb47fa8"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/DiziPalHub.cs3",
     "status": 3,
-    "version": 18,
+    "version": 19,
     "name": "DiziPalHub",
     "internalName": "DiziPalHub",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziPal Hub · 2225, DDiziPal, Orjinal 14 ve 1588 kaynakları tek merkezde",
-    "fileSize": 208248,
+    "fileSize": 214366,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -584,7 +584,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPalHub.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2160256513291bc1b4406c24b10819ad66d860d528a606cd4df4636377da7963"
+    "fileHash": "sha256-04423f79abd1061f4aff48dcff2fa40e07d05d08c3bfb0e4bb02ba4c3c663424"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/DiziPalOriginal.cs3",
@@ -1244,14 +1244,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/SelcukFlix.cs3",
     "status": 3,
-    "version": 4,
+    "version": 5,
     "name": "SelcukFlix",
     "internalName": "SelcukFlix",
     "authors": [
       "Wiojelt"
     ],
     "description": "SelcukFlix · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 125208,
+    "fileSize": 271356,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1260,7 +1260,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.app&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-6bab4dca262e8cc0d9ba4a0d8e3c82d2fdd1a66bb74eefc1b7703e12a212018d"
+    "fileHash": "sha256-7648b31bf94b4de9db0a7790060e00630ced8485c7f7735f8ce6bb74e3e3c6f7"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/e1b1217b687e201e5ae29556a13f808c0f1eff02/SetFilmIzle.cs3",
