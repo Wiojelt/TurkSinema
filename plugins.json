@@ -541,16 +541,16 @@
     "fileHash": "sha256-7900d98822f4b320c23956e2a5bfd1c1414653a68c48af31bd8dd9d1cb34cae5"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziMom.cs3?v=e54265fa3aca",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziMom.cs3?v=9db0c2057c9b",
     "status": 3,
-    "version": 9,
+    "version": 10,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Mom · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 127829,
+    "fileSize": 133178,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -561,7 +561,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziMom.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e54265fa3acab5b50e6e5d02f4d2d89479b08816b6c319601afaaf659eb47fa8"
+    "fileHash": "sha256-9db0c2057c9b41be745b6a5aa38d087ba7e32031b6a45627febc1a33b4c1155e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalHub.cs3?v=e11ccd4906f0",
