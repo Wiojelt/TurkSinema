@@ -564,16 +564,16 @@
     "fileHash": "sha256-9db0c2057c9b41be745b6a5aa38d087ba7e32031b6a45627febc1a33b4c1155e"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalHub.cs3?v=e11ccd4906f0",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalHub.cs3?v=ef776b0b5aa6",
     "status": 3,
-    "version": 21,
+    "version": 22,
     "name": "DiziPalHub",
     "internalName": "DiziPalHub",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziPal Hub · 2225, DDiziPal, Orjinal 14 ve 1588 kaynakları tek merkezde",
-    "fileSize": 221880,
+    "fileSize": 223008,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -584,7 +584,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPalHub.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e11ccd4906f0bfac1d7e7afb5a64cb7cb78a84ae19e6c36992d4d9f87cd4f2e3"
+    "fileHash": "sha256-ef776b0b5aa617606b7bbaf70b82c59a4801d821ed49d8cf18d5d071935eb9a9"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalOriginal.cs3?v=930a994adaac",
