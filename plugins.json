@@ -1384,14 +1384,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TrAnimeIzle.cs3?v=eabf9b8bc00c",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "TrAnimeIzle",
     "internalName": "TrAnimeIzle",
     "authors": [
       "Wiojelt"
     ],
     "description": "TrAnimeİzle · Türkiye'nin en popüler anime izleme platformu",
-    "fileSize": 119357,
+    "fileSize": 119361,
     "repositoryUrl": "https://github.com/Wiojelt/test",
     "language": "tr",
     "tvTypes": [
@@ -1401,7 +1401,7 @@
     ],
     "iconUrl": "https://www.tranimeizle.live/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-eabf9b8bc00c0a2e834f9ccf3adc89f6a52ff49eb9841b33588bb0527a13d384"
+    "fileHash": "sha256-4848d40ee081087f28c3f600e01331aa01e058de5de3ed14490e863b695a4c17"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TrDiziIzle.cs3?v=b0d388ffe29d",
