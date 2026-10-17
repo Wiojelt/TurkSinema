@@ -954,28 +954,6 @@
     "fileHash": "sha256-3b0d59a0f9bd0f457ccbaf6d2bcf45687a9625135adf13f0b9a207ba4af08741"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/InatBox.cs3?v=977b432a5fc3",
-    "status": 3,
-    "version": 1,
-    "name": "InatBox",
-    "internalName": "InatBox",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "İnatBox · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 141345,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/inatbox.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-977b432a5fc3da7b411894d41cbede13e6a4fe3cd774849a3db196ef43d197ab"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/IzleOyna.cs3?v=bcd8b61b979d",
     "status": 1,
     "version": 3,
@@ -1199,28 +1177,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-782a8d55abf8b854db5e46b07592a96f177e66176cf1e9f2b6d14deb6e40358f"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/RecTV.cs3?v=e13eb4ff1ea1",
-    "status": 3,
-    "version": 2,
-    "name": "RecTV",
-    "internalName": "RecTV",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "RecTV · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 142785,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/rectv.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-e13eb4ff1ea1b80e9da9309c9dfba77abd4928e51a2e883a9edd2afb23ffc27a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SelcukFlix.cs3?v=7648b31bf94b",
