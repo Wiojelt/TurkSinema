@@ -1089,26 +1089,6 @@
     "fileHash": "sha256-dc4a95677860470215be9d02c0769dd5e5b3d3fe1b3cf43e28238008de7795bc"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/MegaWio.cs3?v=81deaaad458f",
-    "status": 1,
-    "version": 3,
-    "name": "MegaWio",
-    "internalName": "MegaWio",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "WioLand Toplu Eklenti Yöneticisi: TurkSinema, TurkSpor, WioSinema, WioSpor ve PltStream depolarını CloudStream'e otomatik olarak ekler ve güncel tutar.",
-    "fileSize": 12581,
-    "repositoryUrl": "https://github.com/Wiojelt/WioLand",
-    "language": "tr",
-    "tvTypes": [
-      "Others"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioLand/main/assets/icon.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-81deaaad458fbd5f681bb1056eb3be018977193a7fd4dfd96b900d2dd4bad846"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/MinikaCocuk.cs3?v=e8e399326fda",
     "status": 1,
     "version": 3,
