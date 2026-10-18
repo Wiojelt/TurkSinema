@@ -68,7 +68,7 @@
     "fileHash": "sha256-a8339e63be80eb81ad217e4150d48c7478066044996808835347da609a722969"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/BingeBang.cs3?v=75632a9baa3e",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/BingeBang.cs3?v=45e611c9e195",
     "status": 3,
     "version": 2,
     "name": "BingeBang",
@@ -76,7 +76,7 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "BingeBang - Film ve Dizi Portali (bingebang.tv). 4K Ultra HD ve Full HD HLS akislari.",
+    "description": "BingeBang - Film ve Dizi Portali (bingebang.st). 4K Ultra HD ve Full HD HLS akislari.",
     "fileSize": 125514,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "all",
@@ -84,7 +84,7 @@
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://bingebang.tv/icon-512.png",
+    "iconUrl": "https://bingebang.st/icon-512.png",
     "apiVersion": 1,
     "fileHash": "sha256-45e611c9e195fc1887c3022b6cf151c995766036b7ab266d0c34765925bec471"
   },
@@ -426,7 +426,7 @@
     "fileHash": "sha256-4918bbc2cf171d5146a27e6684ed72e2b6aa7bb270503ca26493fec03dee4ab1"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziBal.cs3?v=90d78358d834",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziBal.cs3?v=067757c725c4",
     "status": 3,
     "version": 8,
     "name": "DiziBal",
@@ -444,12 +444,12 @@
       "Anime",
       "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.com&sz=128",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.org&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-067757c725c4148abe6df0b138da46f04c6326e7d1d381b7bf3eb0fb618e00e0"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziBol.cs3?v=72c6aceda794",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziBol.cs3?v=80d33a6d0d43",
     "status": 3,
     "version": 8,
     "name": "DiziBol",
@@ -467,7 +467,7 @@
       "Anime",
       "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.com&sz=128",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-80d33a6d0d4328d257388e82694888c4603b32a03f6cfd90c6a20fadee172654"
   },
@@ -588,7 +588,7 @@
     "hash": "70f18ab8350b1b474f31bc99671a43ab9fc772ffb01d3eba4b33491049672c76"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalOriginal.cs3?v=930a994adaac",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalOriginal.cs3?v=b0dbe91f05c7",
     "status": 3,
     "version": 10,
     "name": "DiziPalOriginal",
@@ -606,7 +606,7 @@
       "Anime",
       "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2138.com&sz=128",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
     "fileHash": "sha256-b0dbe91f05c766e3327818dc5079c2ca3d8cb38dc30968f9208f6605d9e74a5d"
   },
