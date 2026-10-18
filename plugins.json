@@ -70,14 +70,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/BingeBang.cs3?v=75632a9baa3e",
     "status": 3,
-    "version": 1,
+    "version": 2,
     "name": "BingeBang",
     "internalName": "BingeBang",
     "authors": [
       "Wiojelt"
     ],
     "description": "BingeBang - Film ve Dizi Portali (bingebang.tv). 4K Ultra HD ve Full HD HLS akislari.",
-    "fileSize": 125509,
+    "fileSize": 125514,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "all",
     "tvTypes": [
@@ -86,7 +86,7 @@
     ],
     "iconUrl": "https://bingebang.tv/icon-512.png",
     "apiVersion": 1,
-    "fileHash": "sha256-75632a9baa3e84b67c98ac2b4e32bf3c8a4f3af349b3313045ea761ddad697b7"
+    "fileHash": "sha256-45e611c9e195fc1887c3022b6cf151c995766036b7ab266d0c34765925bec471"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CineCat.cs3?v=1ca78d9f7181",
@@ -428,14 +428,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziBal.cs3?v=90d78358d834",
     "status": 3,
-    "version": 7,
+    "version": 8,
     "name": "DiziBal",
     "internalName": "DiziBal",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziBal · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 137114,
+    "fileSize": 139169,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -446,12 +446,12 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-90d78358d834342071d466b165f26cb8f6f0751f8ccd9d9f90ea029b53d28664"
+    "fileHash": "sha256-067757c725c4148abe6df0b138da46f04c6326e7d1d381b7bf3eb0fb618e00e0"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziBol.cs3?v=72c6aceda794",
     "status": 3,
-    "version": 7,
+    "version": 8,
     "name": "DiziBol",
     "internalName": "DiziBol",
     "authors": [
@@ -469,7 +469,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-72c6aceda79484f5a05cdaf2923d608ebaf9e4caff111c322a408317a6f90e18"
+    "fileHash": "sha256-80d33a6d0d4328d257388e82694888c4603b32a03f6cfd90c6a20fadee172654"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziBox.cs3?v=cadb8a6abaa0",
@@ -590,14 +590,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalOriginal.cs3?v=930a994adaac",
     "status": 3,
-    "version": 9,
+    "version": 10,
     "name": "DiziPalOriginal",
     "internalName": "DiziPalOriginal",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Pal Original · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 209663,
+    "fileSize": 225771,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -608,7 +608,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2138.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-930a994adaac61a7ca2b4f03b45722ae8b655b962b5c6e2c72470812adb7082b"
+    "fileHash": "sha256-b0dbe91f05c766e3327818dc5079c2ca3d8cb38dc30968f9208f6605d9e74a5d"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziRella.cs3?v=7c1a63a96d49",
