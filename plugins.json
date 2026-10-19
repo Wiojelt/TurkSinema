@@ -1223,16 +1223,16 @@
     "fileHash": "sha256-de6a3491c29768727dc05697a8e4de50d1777d96aa293894e1238fd0a3f3c548"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SezonlukDizi.cs3?v=97a38b36f5c0",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SezonlukDizi.cs3?v=98d81130e276",
     "status": 3,
-    "version": 9,
+    "version": 10,
     "name": "SezonlukDizi",
     "internalName": "SezonlukDizi",
     "authors": [
       "Wiojelt"
     ],
     "description": "Sezonluk Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 122853,
+    "fileSize": 124477,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1243,19 +1243,19 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-97a38b36f5c012f975ae3de9c160da6e44496234ef86f22c8b88555f60da147b"
+    "fileHash": "sha256-98d81130e276abdaef899bb4395d7efef182b57606cb265096ec4c27a4b93f6a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SinemaCX.cs3?v=2cef552d349e",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SinemaCX.cs3?v=ac9f6f24e849",
     "status": 3,
-    "version": 7,
+    "version": 8,
     "name": "SinemaCX",
     "internalName": "SinemaCX",
     "authors": [
       "Wiojelt"
     ],
     "description": "Sinema C X · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 110073,
+    "fileSize": 110074,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1266,19 +1266,19 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.gg&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-2cef552d349ecf956eb9a34e3781a0767eb157d8309e22fc7deaae4d39ec44fa"
+    "fileHash": "sha256-ac9f6f24e849622e0ea589ca54f43d2dc41c802b2099890b6e8cd0282b3c7eb3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SinemaGG.cs3?v=b166a0f620d3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SinemaGG.cs3?v=0af192012a76",
     "status": 3,
-    "version": 1,
+    "version": 2,
     "name": "SinemaGG",
     "internalName": "SinemaGG",
     "authors": [
       "Wiojelt"
     ],
     "description": "SinemaGG · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 111362,
+    "fileSize": 111353,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1289,7 +1289,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinema.gg&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b166a0f620d360403ab9db5be135be37545c3cc988c212fb1339e97fe9d5572b"
+    "fileHash": "sha256-0af192012a76ba180091460ed8f47a1eb67a10f14388fb676056ecaa52b63b63"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Sinemakolik.cs3?v=5e181c442522",
