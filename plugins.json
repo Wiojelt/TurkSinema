@@ -1475,14 +1475,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WioCinema.cs3?v=3b6f5d5cbc37",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "WioCinema",
     "internalName": "WioCinema",
     "authors": [
       "Wiojelt"
     ],
     "description": "Global movie and series providers with TMDB/IMDb catalog matching.",
-    "fileSize": 2285758,
+    "fileSize": 2345244,
     "repositoryUrl": "https://github.com/Wiojelt/WioCinema",
     "language": "en",
     "tvTypes": [
@@ -1491,7 +1491,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-3b6f5d5cbc37e472c39c1d810587d926b96505c4bf600e2d6abdbad09731bd48"
+    "fileHash": "sha256-d650b8b531ab35029aa2e951f40f52e94520d6ccefefdd08476f14074dd34e10"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/YabanciDizi.cs3?v=8d613299b30b",
