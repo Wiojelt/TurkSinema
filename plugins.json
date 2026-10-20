@@ -518,16 +518,16 @@
     "fileHash": "sha256-aa6782b8c849b2d56bf838c69d9294c6b5fcc35bb011e6863237f4fcfaa1136a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Dizilla.cs3?v=7900d98822f4",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Dizilla.cs3?v=b58fc67cc31c",
     "status": 3,
-    "version": 10,
+    "version": 11,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 136174,
+    "fileSize": 269003,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -538,7 +538,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-7900d98822f4b320c23956e2a5bfd1c1414653a68c48af31bd8dd9d1cb34cae5"
+    "fileHash": "sha256-b58fc67cc31c1b8c1695484c577aff46f9f722eefe34d53d5fd4622747f5a30a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziMom.cs3?v=9db0c2057c9b",
@@ -1473,7 +1473,7 @@
     "fileHash": "sha256-9537d39d14497b8556aed0d18520fe9ba1912c41afea4123c8dffefca7b2762a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WioCinema.cs3?v=6411d6a697ee",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WioCinema.cs3?v=44d0527a8c1c",
     "status": 3,
     "version": 10,
     "name": "WioCinema",
@@ -1482,7 +1482,7 @@
       "Wiojelt"
     ],
     "description": "Global movie and series providers with TMDB/IMDb catalog matching.",
-    "fileSize": 2358068,
+    "fileSize": 2370239,
     "repositoryUrl": "https://github.com/Wiojelt/WioCinema",
     "language": "en",
     "tvTypes": [
@@ -1491,7 +1491,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-6411d6a697ee933a387e98c2773eeaa287488c2c63715b3d98d671e8855ac58f"
+    "fileHash": "sha256-44d0527a8c1c57257d4f58c1160955190145f2b4267590ebf191b06d1874773c"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/YabanciDizi.cs3?v=8d613299b30b",
