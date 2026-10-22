@@ -518,16 +518,16 @@
     "fileHash": "sha256-aa6782b8c849b2d56bf838c69d9294c6b5fcc35bb011e6863237f4fcfaa1136a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Dizilla.cs3?v=b58fc67cc31c",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Dizilla.cs3?v=bfeb7545f024",
     "status": 3,
-    "version": 11,
+    "version": 12,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 269003,
+    "fileSize": 258283,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -538,7 +538,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b58fc67cc31c1b8c1695484c577aff46f9f722eefe34d53d5fd4622747f5a30a"
+    "fileHash": "sha256-bfeb7545f024e8ad79e6af9748086e3cc93760fe7b9a5a2426a149b7811bca67"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziMom.cs3?v=9db0c2057c9b",
