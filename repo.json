@@ -6,5 +6,6 @@
   "pluginLists": [
     "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/plugins.json?t=1792703737"
   ],
-  "lastUpdated": 1792703737
+  "lastUpdated": 1792703737,
+  "version": 2
 }
