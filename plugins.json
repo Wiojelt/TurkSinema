@@ -1975,9 +1975,9 @@
     "fileHash": "sha256-d1460d24bf2543ac1c399f7cddcb8bbd07e21fef15c0fa0b053b840e12aa87d9"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Sinewix.cs3?v=6d56282c04b5",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Sinewix.cs3?v=90e7fc4544b5",
     "status": 3,
-    "version": 20,
+    "version": 21,
     "name": "fragileTV",
     "internalName": "Sinewix",
     "authors": [
@@ -1995,7 +1995,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/fragiletv.png",
     "apiVersion": 1,
-    "fileHash": "sha256-6d56282c04b5e52c807e52fc38b861a70bfeb966b9eb44611d6caa8c460a3002"
+    "fileHash": "sha256-90e7fc4544b589759584dfc1cbd028255bde3a122c6684aeb1fb6a7248681619"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/36471a864731fdcf3d74bc858aec89c1c3d51136/StardustTV.cs3",
