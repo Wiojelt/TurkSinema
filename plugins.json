@@ -2475,5 +2475,28 @@
     "fileSize": 112687,
     "fileHash": "sha256-013e0c3af61585d8327c2f16b1d2cd4a26520b5580c4d746ddc54606d47b9529",
     "apiVersion": 1
+  },
+  {
+    "name": "Net TV",
+    "internalName": "NetTV",
+    "version": 1,
+    "description": "Net TV · Canlı TV, Ulusal, Spor, Sinema ve popüler diziler (Adnan4161 & Aksaçlı).",
+    "authors": [
+      "Wiojelt",
+      "Adnan4161"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/NetTV.cs3?v=fa239f34c636",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/nettv.png",
+    "tvTypes": [
+      "Live",
+      "TvSeries",
+      "Movie"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 114382,
+    "fileHash": "sha256-fa239f34c636519b534f7f4c38f1ed130e0bac22ba74e0d1fcdcd894477d4fbc",
+    "apiVersion": 1
   }
 ]
