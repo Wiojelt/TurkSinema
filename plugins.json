@@ -937,9 +937,9 @@
     "fileHash": "sha256-e8dd82237e3398b260413768f3fab981b4fb582211a945dd14b22f0b98058c8b"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/36471a864731fdcf3d74bc858aec89c1c3d51136/FlickReels.cs3",
-    "status": 3,
-    "version": 1,
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FlickReels.cs3?v=3fdc6f9e7011",
+    "status": 1,
+    "version": 2,
     "name": "FlickReels",
     "internalName": "FlickReels",
     "authors": [
@@ -949,7 +949,7 @@
     "fileSize": 112173,
     "repositoryUrl": "https://github.com/Wiojelt/test",
     "apiVersion": 1,
-    "fileHash": "sha256-b6741e4423bc709949ca2aefc51a6c054b40a90b8c86ff656f549e46520a2ce6"
+    "fileHash": "sha256-3fdc6f9e701141f34bf794d7d47ccc2f924e080b02ce892386103fd53a1f941e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/36471a864731fdcf3d74bc858aec89c1c3d51136/FlixNetwork.cs3",
@@ -1221,8 +1221,8 @@
     "fileHash": "sha256-3b0d59a0f9bd0f457ccbaf6d2bcf45687a9625135adf13f0b9a207ba4af08741"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/36471a864731fdcf3d74bc858aec89c1c3d51136/InatBox.cs3",
-    "status": 3,
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/InatBox.cs3?v=2ac0eb8e9130",
+    "status": 1,
     "version": 8,
     "name": "InatBox",
     "internalName": "InatBox",
@@ -1514,8 +1514,8 @@
     "fileHash": "sha256-e9e152ca45014acb46df0bb35783c138f636a625a681a807bcf25dc61e205b98"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/36471a864731fdcf3d74bc858aec89c1c3d51136/MoreShort.cs3",
-    "status": 3,
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/MoreShort.cs3?v=00dc830b1936",
+    "status": 1,
     "version": 1,
     "name": "MoreShort",
     "internalName": "MoreShort",
@@ -1811,16 +1811,16 @@
     "fileHash": "sha256-98d81130e276abdaef899bb4395d7efef182b57606cb265096ec4c27a4b93f6a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/36471a864731fdcf3d74bc858aec89c1c3d51136/Shortizle.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Shortizle.cs3?v=fbf700566931",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Shortizle",
     "internalName": "Shortizle",
     "authors": [
       "Wiojelt"
     ],
     "description": "Shortizle — Türkçe altyazılı ve dublajlı kısa ve mini diziler.",
-    "fileSize": 115047,
+    "fileSize": 116595,
     "repositoryUrl": "https://github.com/Wiojelt/test",
     "language": "tr",
     "tvTypes": [
@@ -1829,22 +1829,22 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/main/assets/shortizle.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b353f54120367a5455c1e69e5c9bb118cd90942f12daefaaa70b4aa6f4892e60"
+    "fileHash": "sha256-fbf700566931c69dda13cb1eed73fff8363c3087e9e6e347ab952c08c1ff5c7a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/36471a864731fdcf3d74bc858aec89c1c3d51136/ShortMax.cs3",
-    "status": 3,
-    "version": 1,
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/ShortMax.cs3?v=7b7f60188608",
+    "status": 1,
+    "version": 2,
     "name": "ShortMax",
     "internalName": "ShortMax",
     "authors": [
       "Wiojelt"
     ],
     "description": "ShortMax – Türkçe dublajlı ve altyazılı dikey kısa drama dizileri ve mini diziler.",
-    "fileSize": 111399,
+    "fileSize": 111953,
     "repositoryUrl": "https://github.com/Wiojelt/test",
     "apiVersion": 1,
-    "fileHash": "sha256-dbab367c85f7014bddfd7695819e192512b3b68c8c12796813e2c283e2aee736"
+    "fileHash": "sha256-7b7f6018860814600b923052cdca48f366605b81128895961f8ef50713ef36b7"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/36471a864731fdcf3d74bc858aec89c1c3d51136/ShortsWave.cs3",
@@ -2497,6 +2497,91 @@
     "status": 1,
     "fileSize": 114382,
     "fileHash": "sha256-fa239f34c636519b534f7f4c38f1ed130e0bac22ba74e0d1fcdcd894477d4fbc",
+    "apiVersion": 1
+  },
+  {
+    "name": "WioDB",
+    "internalName": "WioDB",
+    "version": 8,
+    "description": "WioDB - DoÄŸrudan Cloudflare Gateway ve Ã–zel DB Destekli Ultra HÄ±zlÄ± OynatÄ±cÄ±",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WioDB.cs3?v=ce90624e3632",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/wiodb.png",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 29491,
+    "fileHash": "sha256-ce90624e3632b14563c69354b66b54703d27a44b652cb8a8de308dc1e0f95ab3",
+    "apiVersion": 1
+  },
+  {
+    "name": "SeyirTURK",
+    "internalName": "SeyirTURK",
+    "version": 13,
+    "description": "SeyirTURK Â· Yerli ve yabancÄ± filmler, diziler ve canlÄ± TV kanallarÄ±",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SeyirTURK.cs3?v=eb79546afa08",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/seyirturk.png",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 219696,
+    "fileHash": "sha256-eb79546afa084edc1881087bd7abf45ade7335965db61a245e2b4103b5b61ee3",
+    "apiVersion": 1
+  },
+  {
+    "name": "Sports Replay",
+    "internalName": "SportsReplay",
+    "version": 1,
+    "description": "Sports Replay · Formula 1, MotoGP, Futbol, NFL ve Spor Arşivi maç ve yarış tekrarları.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SportsReplay.cs3?v=6f5f2951e8a3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/sportsreplay.png",
+    "tvTypes": [
+      "Live",
+      "TvSeries",
+      "Movie"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 140629,
+    "fileHash": "sha256-6f5f2951e8a356a127e505cb6d73a3774a6eeb515a3e9fc8f22525a526071234",
+    "apiVersion": 1
+  },
+  {
+    "name": "Catcast TV",
+    "internalName": "Catcast",
+    "version": 3,
+    "description": "Catcast TV · Sadece Türkçe Canlı Kanallar (Ulusal, Haber, Sinema, Dizi, Spor, Müzik, Çocuk, Belgesel)",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Catcast.cs3?v=5a332e04a042",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/catcast.png",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 123479,
+    "fileHash": "sha256-5a332e04a042d061baf516bc240e945cb3e93953653d95b48e5a557a317c9684",
     "apiVersion": 1
   }
 ]
