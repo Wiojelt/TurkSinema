@@ -2411,5 +2411,26 @@
         "fileSize": 121700,
         "fileHash": "sha256-bf524a3c45335d8458f97e5e3df97cffeb8775aced67bcd0621ff2acdf7bf982",
         "apiVersion": 1
+    },
+    {
+        "name": "DiziWatch",
+        "internalName": "DiziWatch",
+        "version": 10,
+        "description": "DiziWatch · Anime ve Dizi sağlayıcısı",
+        "authors": [
+            "Wiojelt"
+        ],
+        "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziWatch.cs3?v=529bec1f3e67",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=diziwatch.app&sz=128",
+        "tvTypes": [
+            "Anime",
+            "TvSeries"
+        ],
+        "language": "tr",
+        "status": 3,
+        "fileSize": 109938,
+        "fileHash": "sha256-529bec1f3e6715b482cf02dc5801f650161c9e12e59863fa03f50c43052122ca",
+        "apiVersion": 1
     }
 ]
