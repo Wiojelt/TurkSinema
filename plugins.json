@@ -2442,7 +2442,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/ArcanaDrama.cs3?v=287b61b1f139",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/ArcanaDrama.cs3?v=db4dd5d1e1c7",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/arcanadrama.png",
     "tvTypes": [
       "AsianDrama",
@@ -2450,8 +2450,8 @@
     ],
     "language": "tr",
     "status": 1,
-    "fileSize": 114410,
-    "fileHash": "sha256-287b61b1f139b01bc36d9cc66843551ab2bfe0ab5a510f8628879c21827b8303",
+    "fileSize": 115109,
+    "fileHash": "sha256-db4dd5d1e1c74d645e7831049e535750da13c1f5d96e3989cf343536ea7b979a",
     "apiVersion": 1
   },
   {
@@ -2463,7 +2463,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Konflix.cs3?v=013e0c3af615",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Konflix.cs3?v=4aed8bd1f6d5",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/konflix.png",
     "tvTypes": [
       "Movie",
@@ -2472,8 +2472,8 @@
     ],
     "language": "tr",
     "status": 1,
-    "fileSize": 112687,
-    "fileHash": "sha256-013e0c3af61585d8327c2f16b1d2cd4a26520b5580c4d746ddc54606d47b9529",
+    "fileSize": 113599,
+    "fileHash": "sha256-4aed8bd1f6d59722a458776aa1f968ef61cdfbd423108685f9ccb48a36d98119",
     "apiVersion": 1
   },
   {
@@ -2486,7 +2486,7 @@
       "Adnan4161"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/NetTV.cs3?v=fa239f34c636",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/NetTV.cs3?v=ecf2693227c6",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/nettv.png",
     "tvTypes": [
       "Live",
@@ -2495,8 +2495,8 @@
     ],
     "language": "tr",
     "status": 1,
-    "fileSize": 114382,
-    "fileHash": "sha256-fa239f34c636519b534f7f4c38f1ed130e0bac22ba74e0d1fcdcd894477d4fbc",
+    "fileSize": 114407,
+    "fileHash": "sha256-ecf2693227c62a7509f61bd909b6dfd19b367c87063d6d1eac2b212b8b48462a",
     "apiVersion": 1
   },
   {
