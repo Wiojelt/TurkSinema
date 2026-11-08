@@ -2432,5 +2432,48 @@
     "fileSize": 109938,
     "fileHash": "sha256-77dfb8ce5256c6b28c51bae2c3c34345e0b7e7413987e8e959b1b4685439ff02",
     "apiVersion": 1
+  },
+  {
+    "name": "Arcana Drama",
+    "internalName": "ArcanaDrama",
+    "version": 1,
+    "description": "Arcana Drama · Asya mini dizileri, popüler dikey dramalar ve Türkçe altyazılı içerikler.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/ArcanaDrama.cs3?v=287b61b1f139",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/arcanadrama.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 114410,
+    "fileHash": "sha256-287b61b1f139b01bc36d9cc66843551ab2bfe0ab5a510f8628879c21827b8303",
+    "apiVersion": 1
+  },
+  {
+    "name": "Konflix",
+    "internalName": "Konflix",
+    "version": 1,
+    "description": "KONFLİX · Güncel yerli ve yabancı filmler, diziler, animasyonlar ve özel yapımlar.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Konflix.cs3?v=013e0c3af615",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/konflix.png",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 112687,
+    "fileHash": "sha256-013e0c3af61585d8327c2f16b1d2cd4a26520b5580c4d746ddc54606d47b9529",
+    "apiVersion": 1
   }
 ]
