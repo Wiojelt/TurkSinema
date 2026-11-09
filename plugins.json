@@ -2604,5 +2604,25 @@
     "fileSize": 112909,
     "fileHash": "sha256-abe142f36fb0f0332a30f2d79ae74214db8a7bd3965beef3adaf93cacaddb5bf",
     "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WioIPTVPanels.cs3",
+    "status": 3,
+    "version": 2,
+    "name": "WioIPTVPanels",
+    "internalName": "WioIPTVPanels",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WioIPTVPanels - Tüm Türk Ulusal, Haber, Spor, Çocuk, Müzik, Belgesel ve Dünya Spor Kanalları (327 Canlı Kanal, Çoklu Yayın Alternatifleri)",
+    "fileSize": 142975,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-d76c13398d2bad687f188cdab81f4a1e216889868d2136766c85de979ced42cd"
   }
 ]
