@@ -1975,16 +1975,16 @@
     "fileHash": "sha256-d1460d24bf2543ac1c399f7cddcb8bbd07e21fef15c0fa0b053b840e12aa87d9"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Sinewix.cs3?v=1b5d3c5bda3d",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Sinewix.cs3?v=7bd6bd06e6d2",
     "status": 1,
-    "version": 23,
+    "version": 24,
     "name": "fragileTV",
     "internalName": "Sinewix",
     "authors": [
       "Wiojelt"
     ],
     "description": "fragileTV · Film, Dizi ve Animasyon arşivi",
-    "fileSize": 144816,
+    "fileSize": 146205,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1995,7 +1995,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/fragiletv.png",
     "apiVersion": 1,
-    "fileHash": "sha256-1b5d3c5bda3d6720628372f00ad8266f896394a570a3d7fe8f34941ccaddd148"
+    "fileHash": "sha256-7bd6bd06e6d29a0275500f7b84f6804aef0b29339f5bc18fdb9f621f0d6eaa9e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/StardustTV.cs3",
