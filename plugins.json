@@ -1132,16 +1132,16 @@
     "fileHash": "sha256-a9a142a4715bd92b3440fdfa3207e9532ea0e1c2c5ed367617db23435b8cf72f"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HDFilmIzleInk.cs3?v=1c18226fa1d3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HDFilmIzleInk.cs3?v=90520e065def",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "HDFilmIzleInk",
     "internalName": "HDFilmIzleInk",
     "authors": [
       "Wiojelt"
     ],
     "description": "HDFilmİzle Ink · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 133004,
+    "fileSize": 131377,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1152,19 +1152,19 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-1c18226fa1d3ff87ca696cab1d92b49df5cf34f20f8a18fc76f5898aff3e30de"
+    "fileHash": "sha256-90520e065def4b52c12328074d1c4c7269865ad9c81bb46588385264a77f9996"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HDFilmIzleVip.cs3?v=5a9f75d48f3e",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HDFilmIzleVip.cs3?v=9f2a0e4a4ca1",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "HDFilmIzleVip",
     "internalName": "HDFilmIzleVip",
     "authors": [
       "Wiojelt"
     ],
     "description": "HDFilmİzle Vip · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 133011,
+    "fileSize": 131394,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1175,7 +1175,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.vip&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-5a9f75d48f3ea9a9437522cc2864fd81c98a939ec39e2fc7618e0622da54bb2d"
+    "fileHash": "sha256-9f2a0e4a4ca1156025a3c73adb3c9a2dac9ddc1912026d7d38097d1b44ec0ea1"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HiDrama.cs3",
@@ -1744,16 +1744,16 @@
     "fileHash": "sha256-d5ba5df84fb7982fe32b877b8d5064da26bab98981bba756e7ae9703a366891a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SetFilmIzle.cs3?v=b578e8357ae2",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SetFilmIzle.cs3?v=d496ce77c2df",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "SetFilmIzle",
     "internalName": "SetFilmIzle",
     "authors": [
       "Wiojelt"
     ],
     "description": "Set Film Izle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 119558,
+    "fileSize": 123249,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1764,7 +1764,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b578e8357ae2568aedc43ea40b39c8c880c6a0a6c9871a483c83667c8acc4cf5"
+    "fileHash": "sha256-d496ce77c2df948ea754a16a404bcb58a48c29b02bed77b4cadf62df53ca520c"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SevenReels.cs3",
