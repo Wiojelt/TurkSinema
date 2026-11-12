@@ -1723,16 +1723,16 @@
     "fileHash": "sha256-bfbdab89f458c2443f5a471a31a7c9a87b89bf8c7a13e6780f843273f4153441"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SelcukFlix.cs3?v=d5ba5df84fb7",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SelcukFlix.cs3?v=82301d734fd7",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "SelcukFlix",
     "internalName": "SelcukFlix",
     "authors": [
       "Wiojelt"
     ],
     "description": "SelcukFlix · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 290562,
+    "fileSize": 294472,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1741,7 +1741,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.app&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-d5ba5df84fb7982fe32b877b8d5064da26bab98981bba756e7ae9703a366891a"
+    "fileHash": "sha256-82301d734fd7108c9de4e1d351804dcf44298c46ffcee63d7ff9cfde5f8100e7"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SetFilmIzle.cs3?v=d496ce77c2df",
