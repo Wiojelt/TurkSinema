@@ -582,16 +582,16 @@
     "fileHash": "sha256-92d6e9901f0411e97ad14e4a4f84ec497ef26335c05478f364d32ba6f4872646"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Dizilla.cs3?v=29bc9c5ca01b",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Dizilla.cs3?v=0d296bada3a8",
     "status": 1,
-    "version": 16,
+    "version": 17,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 268846,
+    "fileSize": 273791,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -602,7 +602,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-29bc9c5ca01be33ab05585172661108801461517dcff33b4f1b369c805cd7cc3"
+    "fileHash": "sha256-0d296bada3a817a51e673c213554bde1385c8112a8ab8543fd2fde693d46ba9a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziMom.cs3",
@@ -891,16 +891,16 @@
     "fileHash": "sha256-6a6feaeae43ef89a24e1c7abe0ff3108c5f4188d43a7f94e6c0356aeba474338"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FilmMakinesi.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FilmMakinesi.cs3?v=2bb02623ee4b",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "FilmMakinesi",
     "internalName": "FilmMakinesi",
     "authors": [
       "Wiojelt"
     ],
     "description": "Film Makinesi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 113426,
+    "fileSize": 112513,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -911,7 +911,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-0bf22b403bd1475416dc600c9ec99d6cf6fa70eb56211c6e5e6287b699654093"
+    "fileHash": "sha256-2bb02623ee4be04968e27e8b601c955162781e1efa0931ec45a69c4b290c71fb"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FilmModu.cs3",
@@ -2087,16 +2087,16 @@
     "fileHash": "sha256-43085f24e496bd549e9c16a727f2fe2a5561e8d6aa96fcf4d4a5d41235c816c9"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TryDrama.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TryDrama.cs3?v=40c31efc16fd",
     "status": 1,
-    "version": 17,
+    "version": 18,
     "name": "TryDrama",
     "internalName": "TryDrama",
     "authors": [
       "Wiojelt"
     ],
     "description": "TryDrama · Türkçe dublajlı ve altyazılı dikey kısa drama dizileri.",
-    "fileSize": 110429,
+    "fileSize": 110740,
     "repositoryUrl": "https://github.com/Wiojelt/test",
     "language": "tr",
     "tvTypes": [
@@ -2105,7 +2105,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/main/assets/trdrama.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a865efcbbaddadad4da134e93eb0f45433a84f202e3bddf7d81b5818002dd4a4"
+    "fileHash": "sha256-40c31efc16fdd3bf0dad0cde95badb35f168671995b22d04e3d4d49a2bd5212f"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Velarium.cs3",
@@ -2217,16 +2217,16 @@
     "fileHash": "sha256-b7b55645a51f4830968905e2ba6ddcc7c6a2cd4d59b3c58a6395aa0e42a0acc2"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WioShort.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WioShort.cs3?v=18dbb8971cc8",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "WioShort",
     "internalName": "WioShort",
     "authors": [
       "Wiojelt"
     ],
     "description": "WioShort · Dikey kısa dizi ve mini drama Türkçe dublaj/altyazılı akışları.",
-    "fileSize": 111339,
+    "fileSize": 111686,
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
     "language": "tr",
     "tvTypes": [
@@ -2235,7 +2235,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d141bb1d1be531b341121f112bcc677ef21d51c72a4a04fcdf19eef5cf9e5036"
+    "fileHash": "sha256-18dbb8971cc82a1cdac07c37c031afbc9410b710fd2a1ff350c749ffcf067d8d"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WioSpor.cs3",
