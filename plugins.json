@@ -2217,16 +2217,16 @@
     "fileHash": "sha256-b7b55645a51f4830968905e2ba6ddcc7c6a2cd4d59b3c58a6395aa0e42a0acc2"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WioShort.cs3?v=18dbb8971cc8",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WioShort.cs3?v=7f2964275cae",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "WioShort",
     "internalName": "WioShort",
     "authors": [
       "Wiojelt"
     ],
     "description": "WioShort · Dikey kısa dizi ve mini drama Türkçe dublaj/altyazılı akışları.",
-    "fileSize": 111686,
+    "fileSize": 111689,
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
     "language": "tr",
     "tvTypes": [
@@ -2235,7 +2235,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-18dbb8971cc82a1cdac07c37c031afbc9410b710fd2a1ff350c749ffcf067d8d"
+    "fileHash": "sha256-7f2964275caed28004902d10eb7f67f58d6be929aef1643e9909371925be3a15"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WioSpor.cs3",
