@@ -786,7 +786,7 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DramaBox.cs3",
     "status": 1,
-    "version": 21,
+    "version": 22,
     "name": "DramaBox",
     "internalName": "DramaBox",
     "authors": [
@@ -804,7 +804,7 @@
     "apiVersion": 1,
     "fileHash": "sha256-434a9d2d60228abfd30cf041468586cd58c78e06a356d00f2e9d7519b679ba65",
     "filesize": 115363,
-    "hash": "sha256-434a9d2d60228abfd30cf041468586cd58c78e06a356d00f2e9d7519b679ba65"
+    "hash": "a91f3b6bc5cb00894f7e63b3cd2bf57d6084f0426ab636561ad3267c08248d3e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DramaDunyam.cs3",
