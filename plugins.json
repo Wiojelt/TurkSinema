@@ -793,7 +793,7 @@
       "Wiojelt"
     ],
     "description": "dboxDRAMA · Popüler dikey kısa drama ve trend dizi akışları.",
-    "fileSize": 115363,
+    "fileSize": 118007,
     "repositoryUrl": "https://github.com/Wiojelt/test",
     "language": "tr",
     "tvTypes": [
@@ -802,7 +802,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/main/assets/dboxDRAMA.png",
     "apiVersion": 1,
-    "fileHash": "sha256-434a9d2d60228abfd30cf041468586cd58c78e06a356d00f2e9d7519b679ba65",
+    "fileHash": "sha256-a91f3b6bc5cb00894f7e63b3cd2bf57d6084f0426ab636561ad3267c08248d3e",
     "filesize": 115363,
     "hash": "a91f3b6bc5cb00894f7e63b3cd2bf57d6084f0426ab636561ad3267c08248d3e"
   },
