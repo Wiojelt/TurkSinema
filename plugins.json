@@ -1703,16 +1703,16 @@
     "fileHash": "sha256-782a8d55abf8b854db5e46b07592a96f177e66176cf1e9f2b6d14deb6e40358f"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/RecTV.cs3?v=7852d7c9d1fa",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/RecTV.cs3?v=b6f34d98033f",
     "status": 3,
-    "version": 6,
+    "version": 7,
     "name": "RecTV",
     "internalName": "RecTV",
     "authors": [
       "Wiojelt"
     ],
     "description": "RecTV · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 144212,
+    "fileSize": 145505,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1722,7 +1722,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/rectv.png",
     "apiVersion": 1,
-    "fileHash": "sha256-7852d7c9d1fa35e6b276302155552cf3aba32bd2b4e2ad3fc0c69c4422042019"
+    "fileHash": "sha256-b6f34d98033f068ed2c516ccad8c89f9d6d2682f343d93137dec7c13c8bc4c32"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SelcukFlix.cs3?v=82301d734fd7",
