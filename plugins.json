@@ -785,15 +785,15 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DramaBox.cs3",
-    "status": 1,
-    "version": 22,
+    "status": 3,
+    "version": 23,
     "name": "DramaBox",
     "internalName": "DramaBox",
     "authors": [
       "Wiojelt"
     ],
     "description": "dboxDRAMA · Popüler dikey kısa drama ve trend dizi akışları.",
-    "fileSize": 118007,
+    "fileSize": 121426,
     "repositoryUrl": "https://github.com/Wiojelt/test",
     "language": "tr",
     "tvTypes": [
@@ -804,7 +804,7 @@
     "apiVersion": 1,
     "fileHash": "sha256-a91f3b6bc5cb00894f7e63b3cd2bf57d6084f0426ab636561ad3267c08248d3e",
     "filesize": 115363,
-    "hash": "a91f3b6bc5cb00894f7e63b3cd2bf57d6084f0426ab636561ad3267c08248d3e"
+    "hash": "3f215dab7dfa8e9adcf43f7fb47e1176872d9f632a0ac7d8e413347111c5af87"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DramaDunyam.cs3",
