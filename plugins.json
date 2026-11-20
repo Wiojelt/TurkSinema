@@ -654,7 +654,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-379b7a648abfba824e87810c00dfc53120669ddff3bce5bdc2dd91d37a7ba01c",
-    "filesize": 269819,
     "hash": "379b7a648abfba824e87810c00dfc53120669ddff3bce5bdc2dd91d37a7ba01c"
   },
   {
@@ -2440,7 +2439,7 @@
     "hash": "4e9b7bd519b6d403d3e30265e772dd5bc977d7dcdd9174f8b360baa9731fd05e"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/YabanciDizi.cs3?v=8d613299b30b",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/YabanciDizi.cs3?v=2a42218e15b7",
     "status": 3,
     "version": 7,
     "name": "YabanciDizi",
@@ -2449,7 +2448,7 @@
       "Wiojelt"
     ],
     "description": "Yabanci Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 139268,
+    "fileSize": 137869,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -2460,9 +2459,8 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-8d613299b30b17f77110f596b3b804f6e4f7e8a28f922e9df3185b8bd4323e85",
-    "filesize": 139268,
-    "hash": "8d613299b30b17f77110f596b3b804f6e4f7e8a28f922e9df3185b8bd4323e85"
+    "fileHash": "sha256-2a42218e15b76d1da7d74bab1051b36c04b1bb35c2f1fab94e7e74c753f64efe",
+    "hash": "2a42218e15b76d1da7d74bab1051b36c04b1bb35c2f1fab94e7e74c753f64efe"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/YesilCamTv.cs3?v=55e75de0e2bf",
