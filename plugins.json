@@ -287,16 +287,16 @@
     "hash": "f79fbf79313915f019c93aa99e9cfb982e22a00953965b90ba956d4128d192af"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiMax.cs3?v=2e36219d4722",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiMax.cs3?v=6fd839ff30f7",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "CizgiMax",
     "internalName": "CizgiMax",
     "authors": [
       "Wiojelt"
     ],
     "description": "Cizgi Max · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 142291,
+    "fileSize": 140889,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -307,7 +307,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-2e36219d4722cdcf48155058b06e381799fe42bc21d3106cf5e551966d1d15e7",
+    "fileHash": "sha256-6fd839ff30f7f5748d024a6f2604b2965ed25732cb58c84ae807df7168397e84",
     "filesize": 142291,
     "hash": "2e36219d4722cdcf48155058b06e381799fe42bc21d3106cf5e551966d1d15e7"
   },
@@ -759,16 +759,16 @@
     "hash": "986928647db780ee7165199dfaf416e265def505c6b681cdf0f31d9cc36e80ae"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziYou.cs3?v=e79a647bf781",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziYou.cs3?v=b80d5a39f73b",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "DiziYou",
     "internalName": "DiziYou",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi You · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 110761,
+    "fileSize": 109256,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -779,7 +779,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.one&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e79a647bf78186f409982b10c1cc4d0e62e268cf287c635f53392083f070ffb0",
+    "fileHash": "sha256-b80d5a39f73b50c2b2b015894ec2f44c0b60784e734cb166773e0b427f3ffba1",
     "filesize": 110761,
     "hash": "e79a647bf78186f409982b10c1cc4d0e62e268cf287c635f53392083f070ffb0"
   },
@@ -1159,16 +1159,16 @@
     "hash": "2d3b343011dca7fdf36c8754193db096b685fa8e62257eee633830802ee01a6d"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HDFilmCehennemi.cs3?v=953b30cda390",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HDFilmCehennemi.cs3?v=c43091af7f9a",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "HDFilmCehennemi",
     "internalName": "HDFilmCehennemi",
     "authors": [
       "Wiojelt"
     ],
     "description": "H D Film Cehennemi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 122948,
+    "fileSize": 122949,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1179,7 +1179,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-953b30cda390f9d2f784529c0f10f862654f889d9aa75ca37e1b0dc8a9454b77",
+    "fileHash": "sha256-c43091af7f9adf7a04a3c1c5df9b5fe298c9278d8c858def43969c0fb5f177a4",
     "filesize": 122948,
     "hash": "953b30cda390f9d2f784529c0f10f862654f889d9aa75ca37e1b0dc8a9454b77"
   },
