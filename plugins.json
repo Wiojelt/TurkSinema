@@ -216,16 +216,16 @@
     "hash": "38ffa9ee29bd4aff4126240827b545207d8cf62ba51e666d6b93b69e7d6682e6"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiDiziNet.cs3?v=abdf48846437",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiDiziNet.cs3?v=32f05da2f9e1",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "CizgiDiziNet",
     "internalName": "CizgiDiziNet",
     "authors": [
       "Wiojelt"
     ],
     "description": "WioKids · ÇizgiDizi.net çizgi dizi arşivi",
-    "fileSize": 113835,
+    "fileSize": 133612,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -234,9 +234,8 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgidizi.net&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-abdf48846437fb5c19fc5ad047488edf36c293e42e697748aae17daf7f1a57f5",
-    "filesize": 113835,
-    "hash": "abdf48846437fb5c19fc5ad047488edf36c293e42e697748aae17daf7f1a57f5"
+    "fileHash": "sha256-32f05da2f9e14b0c54a7e373467c2de456246df332f908143bab31c6179171eb",
+    "hash": "32f05da2f9e14b0c54a7e373467c2de456246df332f908143bab31c6179171eb"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiFilmIzleInfo.cs3?v=920e4ba209a7",
@@ -359,16 +358,16 @@
     "hash": "84e130b67daec665e58da48e18682caffcc481dbf97e48d133468715336547f1"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiVeDizi.cs3?v=df8beb1a459a",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiVeDizi.cs3?v=e391c4ae7a34",
     "status": 1,
-    "version": 23,
+    "version": 24,
     "name": "CizgiVeDizi",
     "internalName": "CizgiVeDizi",
     "authors": [
       "Wiojelt"
     ],
     "description": "Çizgi, anime, dizi ve film kataloğu; güncel merkez player ve bölüm kaynaklarını çözer.",
-    "fileSize": 133521,
+    "fileSize": 133449,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -378,9 +377,8 @@
     ],
     "iconUrl": "https://cizgivedizi.com/Logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-df8beb1a459aaf6836be2c906a5cb914e0066114b9979a2a91d4e8baad11996c",
-    "filesize": 133521,
-    "hash": "df8beb1a459aaf6836be2c906a5cb914e0066114b9979a2a91d4e8baad11996c"
+    "fileHash": "sha256-e391c4ae7a34802c0143087095d3c2e9b8262305965edd4e281e735bc029ee5e",
+    "hash": "e391c4ae7a34802c0143087095d3c2e9b8262305965edd4e281e735bc029ee5e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/ClipBox.cs3?v=328f9263c0a3",
