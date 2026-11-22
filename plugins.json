@@ -215,7 +215,7 @@
     "hash": "38ffa9ee29bd4aff4126240827b545207d8cf62ba51e666d6b93b69e7d6682e6"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiDiziNet.cs3?v=32f05da2f9e1",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiDiziNet.cs3?v=c93c277087db",
     "status": 1,
     "version": 6,
     "name": "CizgiDiziNet",
@@ -224,7 +224,7 @@
       "Wiojelt"
     ],
     "description": "WioKids · ÇizgiDizi.net çizgi dizi arşivi",
-    "fileSize": 134180,
+    "fileSize": 140000,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -233,7 +233,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgidizi.net&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-71bed344a1c3fa7466eb6ff5f8fa624a9a0b734c156636672af138883e22ebf7",
+    "fileHash": "sha256-c93c277087db9c676d75bed6ff92997166244f12466ca7998b838a76722b443f",
     "hash": "71bed344a1c3fa7466eb6ff5f8fa624a9a0b734c156636672af138883e22ebf7"
   },
   {
@@ -357,7 +357,7 @@
     "hash": "84e130b67daec665e58da48e18682caffcc481dbf97e48d133468715336547f1"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiVeDizi.cs3?v=3deedf8ca96c",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiVeDizi.cs3?v=2c31d7b5669c",
     "status": 1,
     "version": 26,
     "name": "CizgiVeDizi",
@@ -366,7 +366,7 @@
       "Wiojelt"
     ],
     "description": "Çizgi, anime, dizi ve film kataloğu; güncel merkez player ve bölüm kaynaklarını çözer.",
-    "fileSize": 136748,
+    "fileSize": 142328,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -376,7 +376,7 @@
     ],
     "iconUrl": "https://cizgivedizi.com/Logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-29b88140ac459a7f1f9162725a12f7ecf36d90ac74a633ff1a0b8357f5a19cf6",
+    "fileHash": "sha256-2c31d7b5669cb19d7604ad0c9c689ad00f7726767425abd42b75d197978079ef",
     "hash": "29b88140ac459a7f1f9162725a12f7ecf36d90ac74a633ff1a0b8357f5a19cf6"
   },
   {
