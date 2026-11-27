@@ -4,11 +4,11 @@
   "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/plugins.json?t=1795553490"
+    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/plugins.json?t=1795816192"
   ],
-  "lastUpdated": 1795553490,
+  "lastUpdated": 1795816192,
   "version": 4,
   "pluginCount": 122,
-  "timestamp": 1795553490,
+  "timestamp": 1795816192,
   "pluginVersion": 2
 }
