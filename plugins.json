@@ -610,14 +610,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Dizilla.cs3?v=379b7a648abf",
     "status": 1,
-    "version": 18,
+    "version": 19,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 269819,
+    "fileSize": 276858,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -933,14 +933,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FilmMakinesi.cs3?v=049e87eedac4",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "FilmMakinesi",
     "internalName": "FilmMakinesi",
     "authors": [
       "Wiojelt"
     ],
     "description": "Film Makinesi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 117084,
+    "fileSize": 126766,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1113,14 +1113,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HDFilmCehennemi.cs3?v=c43091af7f9a",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "HDFilmCehennemi",
     "internalName": "HDFilmCehennemi",
     "authors": [
       "Wiojelt"
     ],
     "description": "H D Film Cehennemi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 122949,
+    "fileSize": 130319,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -2114,14 +2114,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TrAnimeIzle.cs3?v=abe0eeb47313",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "TrAnimeIzle",
     "internalName": "TrAnimeIzle",
     "authors": [
       "Wiojelt"
     ],
     "description": "TrAnimeİzle · Türkiye'nin en popüler anime izleme platformu",
-    "fileSize": 111020,
+    "fileSize": 117155,
     "repositoryUrl": "https://github.com/Wiojelt/test",
     "language": "tr",
     "tvTypes": [
@@ -2275,14 +2275,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WioCinema.cs3?v=b7b55645a51f",
     "status": 3,
-    "version": 12,
+    "version": 13,
     "name": "WioCinema",
     "internalName": "WioCinema",
     "authors": [
       "Wiojelt"
     ],
     "description": "Global movie and series providers with TMDB/IMDb catalog matching.",
-    "fileSize": 2485163,
+    "fileSize": 2502910,
     "repositoryUrl": "https://github.com/Wiojelt/WioCinema",
     "language": "en",
     "tvTypes": [
